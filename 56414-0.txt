@@ -1,31 +1,7 @@
-Project Gutenberg's A Candid History of the Jesuits, by Joseph McCabe
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: A Candid History of the Jesuits
-
-Author: Joseph McCabe
-
-Release Date: January 22, 2018 [EBook #56414]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK A CANDID HISTORY OF THE JESUITS ***
+*** START OF THE PROJECT GUTENBERG EBOOK 56414 ***
 
 
 
-
-Produced by Clarity, Graeme Mackreth and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive/American Libraries.)
 
 
 
@@ -101,14 +77,14 @@ to suppose that, because the present writer is neither Roman Catholic
 nor Protestant, he will be awarded the virtue of impartiality. There
 seems, however, some need for an historical study of the Jesuits which
 will aim at impartiality and candour. On one side we have large and
-important works like Crétineau-Joly's _Histoire religieuse, politique,
-et littéraire de la Compagnie de Jésus_, and a number of smaller
+important works like CrÃ©tineau-Joly's _Histoire religieuse, politique,
+et littÃ©raire de la Compagnie de JÃ©sus_, and a number of smaller
 works, written by Catholics of England or America, from the material,
 and in the spirit, of the French historian's work. Such works as
 these cannot for a moment be regarded as serious history. They are
 panegyrics or apologies: pleasant reading for the man or woman who
 wishes to admire, but mere untruth to the man or woman who wishes to
-know. Indeed, the work of M. Crétineau-Joly, written in conjunction
+know. Indeed, the work of M. CrÃ©tineau-Joly, written in conjunction
 with the Jesuits, which is at times recommended as the classical
 authority on the Society, has worse defects than the genial omission
 of unedifying episodes. He makes the most inflated general statements
@@ -124,8 +100,8 @@ volume on the Jesuits does not exist, and probably never will exist.
 The historian who surveys the whole of the facts of their remarkable
 and romantic career cannot remain neutral. Nor is it merely a question
 of whether the writer is a Roman Catholic or no. The work of M.
-Crétineau-Joly was followed in France by one written by a zealous
-priest, the Abbé Guettée, which tore its predecessor to shreds, and
+CrÃ©tineau-Joly was followed in France by one written by a zealous
+priest, the AbbÃ© GuettÃ©e, which tore its predecessor to shreds, and
 represented the Society of Jesus as fitly condemned by Pope and kings.
 
 It will be found, at least, that the present work contains an
@@ -133,7 +109,7 @@ impartial account both of the virtue and heroism that are found in
 the chronicles of the Jesuits, and the scandals and misdeeds that may
 justly be attributed to them. It is no less based on the original
 Jesuit documents, as far as they have been published, and the work of
-Crétineau-Joly, than on the antagonistic literature, as the reader
+CrÃ©tineau-Joly, than on the antagonistic literature, as the reader
 will perceive. Whether or no it seems to some an indictment, it is
 a patient endeavour to give all the facts, within the compass of the
 volume, and enable the reader to form a balanced judgment on the
@@ -209,7 +185,7 @@ In the early summer of the year 1521, some months after Martin Luther
 had burned the Pope's bull at Wittenberg and lit the fire of the
 Reformation, a young Basque soldier lay abed in his father's castle
 at the foot of the Pyrenees, contemplating the wreck of his ambition.
-Iñigo of Loyola was the youngest son in a large family of ancient
+IÃ±igo of Loyola was the youngest son in a large family of ancient
 lineage and little wealth. He had lost his mother at an early date, and
 had been placed by a wealthy aunt at court, where he learned to love
 the flash of swords, the smile of princes, the softness of silk and of
@@ -241,17 +217,17 @@ that the elder apostle had entered the dark chamber and healed him on
 the eve of the festival. Unhappily he found, when the fever had gone,
 that the second setting of his leg had been so ill done that a piece
 of bone projected below the knee, and the right leg was shorter than
-the left. Again he summoned the mediæval surgeons and their appalling
+the left. Again he summoned the mediÃ¦val surgeons and their appalling
 armoury, and they sawed off the protruding piece of bone and stretched
 his leg on a rack they used for such purposes; and not a cry or curse
 came from the tense lips. But the right leg still refused to meet its
-fellow, and shades gathered about Iñigo's glorious prospect of life. A
+fellow, and shades gathered about IÃ±igo's glorious prospect of life. A
 young man who limps can hardly hope to reach a place of honour in the
 camp, or the gardens of the palace, or the hearts of women. Talleyrand,
 later, would set out on his career with a limp; and Talleyrand would
 become a diplomatist.
 
-Iñigo lay in the stout square castle of rugged stone, which is now
+IÃ±igo lay in the stout square castle of rugged stone, which is now
 reverently enclosed, like a jewel, in a vast home of the Jesuits. It
 then stood alone in a beautiful valley, just at the foot of the last
 southern slopes of the Pyrenees, about a mile from the little town
@@ -305,13 +281,13 @@ seriously entertained it.
 
 By the spring the struggle had ended and Ignatius--he exchanged his
 worldly name for that of a saint-model--set out in quest of spiritual
-adventure. The "sudden revolution," as Crétineau-Joly calls his
+adventure. The "sudden revolution," as CrÃ©tineau-Joly calls his
 conversion, had occupied about nine months. Indeed, friends and foes
 of the Jesuits have conspired to obscure the development of his
 feelings: the friends in order that they may recognise a miracle in
 the conversion, the foes in order that they may make it out to have
 been no conversion at all, but a transfer of selfish ambition from the
-camp to the Church. Whatever be the truth about Iñigo's earlier morals,
+camp to the Church. Whatever be the truth about IÃ±igo's earlier morals,
 he had certainly received a careful religious education in boyhood,
 and he would just as certainly not learn scepticism at the court set
 up by Ferdinand and Isabella. His belief that he had a vision of St.
@@ -322,7 +298,7 @@ especially in Spain, but the darker descriptions of his adolescent ways
 which some writers give are not justified. "He was prone to quarrels
 and amatory folly," is all that the most candid of his biographers
 says. Let us grant the hot Basque blood a quick sense of honour and a
-few love-affairs. On the whole, Iñigo seems to have been an officer of
+few love-affairs. On the whole, IÃ±igo seems to have been an officer of
 the stricter sort, and a thorough Catholic. Hence we can understand
 that, as earth grows dark and cheerless for him, and the casual reading
 brings before him in vivid colouring the vision of faith, his fervent
@@ -460,13 +436,13 @@ pleasures, sent their servants to waylay him. They nearly killed him
 with their staves. Many jeered at him as a hypocrite or a fanatic: many
 revered him, and a few youths became his first disciples. With three of
 these he went, after two years' study in Barcelona, to the University
-of Alcalà, and began his higher studies. But he was so eager to make an
+of AlcalÃ , and began his higher studies. But he was so eager to make an
 end of this intellectual preparation, and so busy with saving souls and
 gaining proselytes, that he tried to take simultaneously the successive
-parts of the stately mediæval curriculum, and learned very little.
+parts of the stately mediÃ¦val curriculum, and learned very little.
 
 His first attempt to found a Society also ended in disastrous failure.
-Opinion in Alcalà was divided about "the sackcloth men." Some
+Opinion in AlcalÃ  was divided about "the sackcloth men." Some
 picturesque figures were known in the religious life of Spain, but no
 one had yet seen such a thing as this little band of youths, led by a
 pale and worn man of thirty-two, who went barefoot from house to house,
@@ -489,7 +465,7 @@ again and put them in prison. Among the women who sought the spiritual
 guidance of Ignatius were some ladies of wealth, who wished to follow
 his example. It is said that he did not consent, and they set out,
 against his will, to beg their bread and tend the sick. This was too
-much for respectable folk in Alcalà, and Ignatius was closely examined
+much for respectable folk in AlcalÃ , and Ignatius was closely examined
 to see whether he was not a secret Jew, since Christians did not do
 these things. The inquiry ended in the companions being ordered to
 dress as other students did, and to forbear preaching for four years.
@@ -747,7 +723,7 @@ St. Ignatius--holy simplicity.
 It was decided that Ignatius, Favre, and Lainez should go to Rome, and
 the others should return to work in their university cities until they
 were called to Rome. Before they parted, however, they gave themselves
-a name, since people demanded one. We are, said Ignatius, the "Compañia
+a name, since people demanded one. We are, said Ignatius, the "CompaÃ±ia
 de Jesu," the "Company of Jesus"; although the prose of a later
 generation has translated it the "Society of Jesus." Then Xavier and
 Bobadilla went to Bologna, Rodriguez and Le Jay to Ferrara, Salmeron
@@ -812,7 +788,7 @@ preachers, these nobles who begged their bread and washed verminous
 invalids, soon divided the Roman world into ardent admirers and ardent
 critics. An Augustinian friar, in particular, opened fire on them from
 his pulpit. Ignatius was "a wolf in sheep's clothing," he insisted; let
-people inquire at Alcalà, and Salamanca, and Paris, and Venice, and see
+people inquire at AlcalÃ , and Salamanca, and Paris, and Venice, and see
 whether he was not wanted by the Inquisition here and there. Friends
 at the Vatican were reminded that this sort of thing interfered with
 their good work, and the Pope was induced to inquire into the charges;
@@ -849,7 +825,7 @@ sufferers and begging alms for them. Their house in the Piazza
 Margana was converted into a hospital, and no less than four hundred
 destitute men found a home in it. The sympathy of the pious slowly
 returned to them. "So happy a diversion had to be put to account," says
-Crétineau-Joly, and Ignatius began to draw up the rules of his Society
+CrÃ©tineau-Joly, and Ignatius began to draw up the rules of his Society
 for presentation to the Pope. Night by night the eleven priests sat
 in council to determine the broad features of their association: to
 say, especially, if they would add a vow of obedience to their vows of
@@ -922,8 +898,8 @@ FOOTNOTES:
 
 [Footnote 1: A good study of the controversy as to the indebtedness of
 Ignatius to the Benedictines, and even the Mohammedans, from the point
-of view of an outsider, will be found in H. Müller's _Les origines de
-la Compagnie de Jésus_ (1898).]
+of view of an outsider, will be found in H. MÃ¼ller's _Les origines de
+la Compagnie de JÃ©sus_ (1898).]
 
 
 
@@ -1006,7 +982,7 @@ the novices and the professed members, the extraordinary provisions
 by which a superior gets an intimate knowledge of his subjects, the
 stress on the duty of teaching, the distinction between a "house" and
 a "college," the deliberate recommendation to prefer youths of wealthy
-or distinguished families (_cæteris paribus_) to poor youths, the
+or distinguished families (_cÃ¦teris paribus_) to poor youths, the
 despotic power and lifelong appointment of the General, the fallacious
 and imposing vow of direct obedience to the Pope, and the absence of
 "choir." These primitive and fundamental features of the Society,
@@ -1109,12 +1085,12 @@ power.
 During the next fifteen years Ignatius remained at Rome, making only
 three short and relatively unimportant missions into Italy. They
 had moved from the house in the Piazza Margana to the foot of the
-Capitoline Hill, where the famous church of the Gesù now is. The old
+Capitoline Hill, where the famous church of the GesÃ¹ now is. The old
 church of Sta Maria della Strada had been given to them, and Codacio
 (who had joined the Society and given his wealth to it) had built
 a house beside it for them. When Sta Maria proved too small, they
 proposed to build a larger church, and nearly secured the services
-of Michael Angelo; but the actual Gesù was begun in 1568 by Cardinal
+of Michael Angelo; but the actual GesÃ¹ was begun in 1568 by Cardinal
 Alexander Farnese.
 
 From their house beside the old church the keen eyes of the General
@@ -1252,7 +1228,7 @@ subject.
 As Henry VIII. died in 1547, and Edward VI. in 1553, it may seem
 singular that Ignatius did not, when the Catholic Mary acceded to the
 throne, at once dispatch a band of his priests to help in restoring the
-old faith. Neither Orlandini nor his discreet follower, Crétineau-Joly,
+old faith. Neither Orlandini nor his discreet follower, CrÃ©tineau-Joly,
 throws any light on the mystery, but a few important hints may be
 gathered from the more candid early Jesuit historian Polanco, a close
 associate of Ignatius, and the full solution is indicated in Burnet's
@@ -1367,7 +1343,7 @@ in the Peninsula are rather due to the General's policy of securing
 influential patrons than to any popular welcome. As early as 1540
 Ignatius had sent his nephew Araoz into Spain, and one reads--between
 the lines--that he had little success. At last a college was founded
-at Alcalà, to the anger of many of the University professors. One
+at AlcalÃ , to the anger of many of the University professors. One
 professor maintained his opposition so long and so violently that
 Father Villanueva, the Jesuit rector, fraternally informed him that
 the Inquisition proposed to put him a few questions, and the professor
@@ -1439,7 +1415,7 @@ intervened in favour of the Jesuits. Before many years the Jesuits won
 from the Pope a declaration that the law did not apply to them, and
 they might build where they pleased. They prospered, and were hated.
 
-An incident of the same significance occurred at Alcalà. The college
+An incident of the same significance occurred at AlcalÃ . The college
 obtained many pupils, though little wealth, and the Jesuit fathers
 began to be very active. In 1551 they were surprised to hear that the
 Archbishop of Toledo had suspended the whole of them from priestly
@@ -1551,7 +1527,7 @@ Jesuits. They received a nephew of the Archbishop, against the uncle's
 will, and they first turned the brain (with their Exercises) of, and
 then put out of doors, a very learned ornament of the university
 named Postel. The Archbishop bade them leave Paris, and they remained
-helpless outside the city, at St. Germain aux Prés, until after the
+helpless outside the city, at St. Germain aux PrÃ©s, until after the
 death of Ignatius. He pressed the case at Rome, and doctors of the
 Sorbonne went there to exchange arguments with Jesuit doctors, but
 nothing was done until years afterwards.
@@ -1594,7 +1570,7 @@ the Pope. This will be plainer in connection with the later sittings.
 The work in Germany was afterwards thwarted by the zeal of the fiery
 Bobadilla. It had at last come to war with the Protestants, to the
 satisfaction of the Jesuits, and Bobadilla marched with the troops and
-was severely wounded at Mühlberg. In 1548, however, Charles published
+was severely wounded at MÃ¼hlberg. In 1548, however, Charles published
 his _Interim_, or provisional concession of certain Protestant claims
 (such as the marriage of the clergy) until the Council of the Church
 should decide the points at issue. It may be recalled that the general
@@ -1609,7 +1585,7 @@ fiercely by pen and tongue. Charles angrily ordered him to leave the
 Empire, and he returned to Rome; and it is recorded that Ignatius so
 warmly resented his "indiscretion" that he refused at first to admit
 him to the house. Thus did the saint vindicate the majesty of kings,
-says M. Crétineau-Joly. The outbreak did unquestionably hamper the
+says M. CrÃ©tineau-Joly. The outbreak did unquestionably hamper the
 progress of the Jesuits for a time, but before the death of Ignatius
 they were firmly established in Vienna, Prague, Cologne, and a few
 other cities. At Vienna the court demanded that Canisius should accept
@@ -1643,7 +1619,7 @@ extremely polite.
 
 The other foreign missions of the early Jesuits were less irradiated
 with miracle, or with heroism. Lainez went in the wake of the Spanish
-troops to Tunis, said mass there, and left no trace behind. Nuñez,
+troops to Tunis, said mass there, and left no trace behind. NuÃ±ez,
 the "Patriarch of Abyssinia," went out with two others to take over
 his diocese, but found a "Patriarch" there already, who made a lively
 opposition, and the Jesuits had to retire to Goa. Four Jesuits were
@@ -1763,7 +1739,7 @@ continued, on the strength of four votes, to act as General. The
 remarkable events of those two years are of great importance in
 studying the character of the early Society. Two very serious conflicts
 arose, one between the Jesuits themselves, and one with the Pope, and
-it is in such conflicts that the real character appears. Crétineau-Joly
+it is in such conflicts that the real character appears. CrÃ©tineau-Joly
 suppresses the one altogether and grossly mis-states the other; he is
 not only less candid, but far less truthful, even than the original
 Jesuit authorities. If we wish to form a just estimate of the early
@@ -2123,7 +2099,7 @@ the nephew and successor of Charles, said in his (Schoppe's) presence
 that he had himself found the Jesuit college at Braida so corrupt that
 he would not suffer any Jesuit to come near him, would not allow any
 student of his seminary to approach a Jesuit teacher, and would, if he
-had the power, forbid any Jesuit to teach.[3] Crétineau-Joly replies
+had the power, forbid any Jesuit to teach.[3] CrÃ©tineau-Joly replies
 that Schoppe is evidently lying, since the known date of his birth
 makes it impossible that he should ever have conversed with _Charles_
 Borromeo. This confusion of Frederic and Charles is originally due
@@ -2131,7 +2107,7 @@ to Quesnel, who makes that mistake in quoting Schoppe, but it is
 very singular that the French apologist for the Jesuits should not
 know that Schoppe spoke of _Frederic_ Borromeo, not Charles, as is
 pointed out in later editions of Quesnel. It is still more singular
-that Crétineau-Joly assures his readers (who are not likely to make an
+that CrÃ©tineau-Joly assures his readers (who are not likely to make an
 arduous search for Schoppe's ancient work) that the statement is made
 "sous forme dubitative," when he must know that it is the most solemn
 and emphatic statement in Schoppe's book. The impartial student must
@@ -2182,7 +2158,7 @@ as we shall see, Sebastian became old enough to put an end to their
 intrigues.
 
 In Spain the Society was less prosperous. The historic struggle at
-Alcalà had ended in the capture of the university by the Jesuits,
+AlcalÃ  had ended in the capture of the university by the Jesuits,
 but at Seville, Valladolid, and other towns there was persistent
 opposition, and at Grenada a dangerous agitation arose because a Jesuit
 confessor compelled a penitent to name her accomplice in vice. Borgia
@@ -2252,7 +2228,7 @@ Catholics and Huguenots were to meet in a dialectical tourney.
 
 Francis II. had died at the close of 1560, and Catherine de Medici,
 the virtual ruler, was entirely won to the Jesuit view. But the
-Huguenots, led by the Prince de Condé and Admiral de Coligny, were so
+Huguenots, led by the Prince de CondÃ© and Admiral de Coligny, were so
 powerful that sober Catholic opinion favoured concession to them in
 the interest of peace: a policy which the Jesuits ruthlessly opposed
 wherever the Catholics were still in the majority. The Colloquy at
@@ -2280,7 +2256,7 @@ the right of entry into Paris for this nameless body of priests.
 This was done, of course, by quiet activity among the prelates,
 without any public discussion. Lainez remained several months in
 France, strengthening the new foundation and--at the very time when
-he was urging Condé, in a friendly correspondence, to induce the
+he was urging CondÃ©, in a friendly correspondence, to induce the
 Protestants to join in the Council of Trent--using the whole of his
 great influence over the Queen and court to prevent any concession of
 churches or other normal rights to the Huguenots. As a result of his
@@ -2348,7 +2324,7 @@ to make concessions, and their clergy were at least eager to check the
 arrogant claims and moderate the extravagance of the papal court. This
 policy was opposed by Italy, Spain, and the Papacy, and the Jesuits
 were the most violent partisans of the ultramontane attitude. It would,
-perhaps, be an error to ascribe to Lainez a preponderant rôle in the
+perhaps, be an error to ascribe to Lainez a preponderant rÃ´le in the
 unhappy councils that were adopted at Trent, but whatever influence his
 learning and eloquence gave him was used for the purpose of magnifying
 the papal authority. Even the wealth and luxury of the Roman court,
@@ -2360,7 +2336,7 @@ to retire to their seats with grave foreboding of bloody struggle.
 Of the Jesuit missions beyond the seas during this decade little need
 be said. In India alone some material progress was made, and it was
 largely due to tactics which promised no permanent result. Writers
-like Crétineau-Joly deliberately omit the most significant details in
+like CrÃ©tineau-Joly deliberately omit the most significant details in
 regard to these early missions, and give a most misleading impression
 that tens of thousands of natives were gathered into the fold by the
 spiritual teaching; and exalted labours of the missionaries. The early
@@ -2388,7 +2364,7 @@ and the Papacy was flattered for a time by reports of success; but
 the adventure ended in the painful and ignominious flight of the
 missionaries from the country. The Japanese missions also were almost
 destroyed in the course of the decade, and two ingenious attempts to
-enter China proved unsuccessful. In 1556 Father Melchior Nuñez was
+enter China proved unsuccessful. In 1556 Father Melchior NuÃ±ez was
 permitted to reach Canton, but his very diplomatic account of his
 object did not convince the mandarins and he was politely expelled. In
 1563 a further attempt was made. The mandarins were informed that an
@@ -2578,23 +2554,23 @@ to secure legacies, and nearly every year witnessed a violent outbreak
 of hostility to them.
 
 A typical instance is found in the Jesuit chronicles in the earlier
-part of the year of Borgia's visit. The Jesuits of Alcalà had received
-into their ranks a youth named Francesco d'España, the son of a wealthy
+part of the year of Borgia's visit. The Jesuits of AlcalÃ  had received
+into their ranks a youth named Francesco d'EspaÃ±a, the son of a wealthy
 and distinguished lady of Madrid, who strongly opposed his entrance
 into the Society. He had the disposal of a large fortune, of which he
 was heir. The mother appealed to the Royal Council, at the head of
 which was Cardinal Spinosa, and the Jesuits were ordered to restore
 the youth. In the meantime, they had secretly sent the youth to their
-house at Madrid,--to be prepared to give evidence, Crétineau-Joly
+house at Madrid,--to be prepared to give evidence, CrÃ©tineau-Joly
 audaciously says,--and when the Vicar of the Archbishop of Toledo
-came to their house at Alcalà to enforce the order, they would tell
-him only that d'España was not there. A very lively dispute followed.
+came to their house at AlcalÃ  to enforce the order, they would tell
+him only that d'EspaÃ±a was not there. A very lively dispute followed.
 The angry prelate roundly abused the Jesuits, who flourished their
 privileges in his face; and some zealous brother rang the bell of the
 college to summon the students to the defence of their rector. When
 at length the Vicar threatened to have the Jesuit Provincial dragged
 to prison, and the students drew their knives to protect him, the
-rector promised to produce d'España within twenty-four hours. He was
+rector promised to produce d'EspaÃ±a within twenty-four hours. He was
 summoned, and his mother tried to persuade him to return, or at least
 to leave his fortune to his family instead of leaving it to the
 Jesuits. He refused, until the Provincial, foreseeing a great outburst
@@ -2706,7 +2682,7 @@ and the country still enjoyed this precarious peace when Alessandrini
 and Borgia reached the court, at Blois, in the first month of 1572. In
 regard to the discussions which took place we know only that France
 declared itself unable to join in the crusade against the Turk, and
-Charles's sister, Mary of Valois, was promised to Henri de Béarn
+Charles's sister, Mary of Valois, was promised to Henri de BÃ©arn
 instead of to Sebastian of Spain, as the Pope wished. Alessandrini and
 Borgia went back to Rome, to announce their failure to the dying Pope.
 And on 24th August of that year took place the horrible massacre which
@@ -2905,7 +2881,7 @@ confessor; and in 1572 he gave them the Abbey of Braida for a college,
 and in 1573 entrusted to them the College of Nobles at Milan. They
 were already in charge of the seminary of the diocese, and the trouble
 seems to have begun with the transfer of this institution to the
-Oblates (a religious body founded by Charles) in 1577. Crétineau-Joly
+Oblates (a religious body founded by Charles) in 1577. CrÃ©tineau-Joly
 explains that the Jesuits were now controlling so many institutions in
 Milan that they were overworked, and they begged to be relieved of the
 seminary. He appeals to Giussano, the saint's biographer; but Giussano
@@ -2941,14 +2917,14 @@ Mazzarino was recalled by his General and suspended from preaching for
 two years by an ecclesiastical tribunal.
 
 This quarrel is of interest for two reasons. In the first place, it
-illustrates the value of Crétineau-Joly's history of the Jesuits.
+illustrates the value of CrÃ©tineau-Joly's history of the Jesuits.
 The French writer ignores the attack in 1577, and says that, as soon
 as Mazzarino began to misbehave, "the Milan fathers hastened to
 disapprove of the imprudent orator," and the General recalled him. It
 is, of course, true that Charles's confessor, Adorno, "disapproved"
 of his brother Jesuit, but the Mazzarino faction retorted that he
 was jealous, because Mazzarino had larger audiences for his sermons;
-and Crétineau-Joly suppresses the fact that the Provincial, and for
+and CrÃ©tineau-Joly suppresses the fact that the Provincial, and for
 a time the General, defiantly supported Mazzarino. We know this from
 Borromeo's letters to his agent.[7] The further interest of the
 quarrel, which is entirely suppressed by the French historian, is that
@@ -3009,7 +2985,7 @@ to say masses for the dead.
 
 In Belgium the record was still one of trouble and vicissitude. They
 had, when Alva had "pacified" the province, opened a number of houses,
-which the townsfolk (as at Antwerp and Liège) threatened to burn.
+which the townsfolk (as at Antwerp and LiÃ¨ge) threatened to burn.
 Then, when Don John, Philip's half-brother, was defeated in 1578,
 the Jesuits refused to take the oath imposed by the States and were
 expelled from Antwerp and other centres. They began to recover to some
@@ -3027,7 +3003,7 @@ university had kept them.
 
 The Catholics of Austria and Southern Germany continued to oppose and
 intimidate them in spite of the devoted exertions of Canisius. They
-were fiercely assailed at Gratz, Prague, Innsprück, and Vienna. The
+were fiercely assailed at Gratz, Prague, InnsprÃ¼ck, and Vienna. The
 Emperor Maximilian was even induced to forbid their Vienna college
 to grant degrees or compete in lectures with the university, though
 the Jesuits soon got the restriction removed. It appears that they
@@ -3181,8 +3157,8 @@ that "Gregory XIII. is said to have expressed dismay," and (p. 285)
 that he heard the news with "triumphant acclamation." There is surely
 no serious doubt that the second statement is correct.]
 
-[Footnote 7: See a selection in the _Annales de la Société des
-soi-disans Jésuites_ (1764), vol. i. pp. 132-159.]
+[Footnote 7: See a selection in the _Annales de la SociÃ©tÃ© des
+soi-disans JÃ©suites_ (1764), vol. i. pp. 132-159.]
 
 [Footnote 8: It did not become a dogma of the Church until 1854.]
 
@@ -3231,7 +3207,7 @@ chapter, and of France.
 
 The first few years of the generalship of Acquaviva were peaceful. A
 friendly Pope, Gregory XIII., occupied the Roman see, and the Society
-increased in numbers and prestige. The Gesù, the famous metropolitan
+increased in numbers and prestige. The GesÃ¹, the famous metropolitan
 church of the Jesuits, was opened by the Pope in 1583; the Gregorian
 calendar was very largely framed by one of their members, the learned
 Clavius of Bavaria. But Gregory died in 1585, and Acquaviva prepared
@@ -3256,7 +3232,7 @@ however, a more singular and ample account of this decadence. One of
 the most brilliant of the Spanish Jesuits, Mariana, the famous advocate
 of regicide, was moved to discredit the Roman authorities by showing
 the corruption into which they had allowed his own province to fall,
-and his _Tratado del Govierno de la Compañia de Jesus_ gives us a
+and his _Tratado del Govierno de la CompaÃ±ia de Jesus_ gives us a
 very candid picture of the Spanish houses. The work was, naturally,
 not published by Mariana. Like so many documents in the Society, it
 was intended for private circulation in manuscript, but it was found
@@ -3282,7 +3258,7 @@ their penitents; in Valladolid alone there are twelve of these steward
 chaplains. They dress in expensive cloth, travel in carriages or on
 mules, and overrun their ample incomes. The whole province is loaded
 with debt, yet at Mariana's own house at Toledo the expenditure per
-head is about £50 a year: a very comfortable sum for the time and
+head is about Â£50 a year: a very comfortable sum for the time and
 place, for a community pledged to poverty. Discipline is thwarted by
 favouritism and flattery, and the constant spying and reporting cause
 bitter quarrels in the houses.
@@ -3570,7 +3546,7 @@ there by Henry. The League now shook its banners in the breeze, and
 Henry was execrated from a hundred pulpits. When he went on to defy the
 Pope and form an alliance with Henry of Navarre, who advanced rapidly
 on Paris, Catholic feeling rose to a fanatical pitch, and Henry III.
-in turn was assassinated by the Dominican monk Jacques Clément. The
+in turn was assassinated by the Dominican monk Jacques ClÃ©ment. The
 Jesuits were assuredly not the only preachers to applaud this murder,
 but they were amongst the first to perceive, and the loudest to
 declare, that if a king may be dispatched by private hand for a crime,
@@ -3590,7 +3566,7 @@ for several years past the Jesuits had been sending pupils to the
 university in order gradually to permeate its faculties. It was no
 longer the distinct anti-Jesuit body which we have met in earlier
 years. Nor is there any need to discuss the abstract question whether
-the Jesuits taught tyrannicide. Crétineau-Joly himself quotes fourteen
+the Jesuits taught tyrannicide. CrÃ©tineau-Joly himself quotes fourteen
 Jesuit theologians of the time who permitted the assassination of
 kings, to say nothing of more or less obscure writers, and we may be
 sure that the politicians of the Society were not more scrupulous than
@@ -3676,7 +3652,7 @@ made the remarkable defence that they had only mingled in the League in
 order to moderate its ardour, that they had no unpatriotic attachment
 to Spain, and that they would scrupulously avoid politics for the
 future. Henry permitted them to remain. A short time before (August
-1593) Barrière had attempted to assassinate him, and, as Barrière had
+1593) BarriÃ¨re had attempted to assassinate him, and, as BarriÃ¨re had
 had a Jesuit confessor, it was suggested that the Jesuits had inspired
 him. Henry said that, on the contrary, it was the Jesuits who had
 warned him of the plot. A fuller knowledge of this warning would be
@@ -3690,7 +3666,7 @@ assassinate Henry, and a furious storm burst upon the Jesuits. Two
 undisputed facts stand out clearly from the prolonged controversy that
 followed this attempt; Chastel had been educated at the Jesuit college
 before going to the university (he was nineteen years old), and he
-had conferred with his former professor, Father Guéret, a few days
+had conferred with his former professor, Father GuÃ©ret, a few days
 before the attempt. This is by no means satisfactory evidence of the
 complicity of the Jesuits, but another piece of evidence, of a very
 inflammatory nature, was put before the court. The authorities had
@@ -3701,7 +3677,7 @@ rector, Father Guignard, which cast the most violent abuse on Henry
 and demanded his death. They had been written five years before, but
 the retention of them was considered a very serious sign of the hidden
 feeling of the Jesuits. We may admit that the court still went beyond
-the evidence in condemning the Jesuits. Guignard was executed, Guéret
+the evidence in condemning the Jesuits. Guignard was executed, GuÃ©ret
 tortured, and all members of the Society were ordered to quit France
 within three days. On 8th January thirty-seven Jesuits set out sadly
 for Lorraine, and from the proceeds of their confiscated property a
@@ -3745,7 +3721,7 @@ to their prayers or protests, men said that Henry "had cotton in his
 ears"; and the fusillade of pamphlets and counter-pamphlets--witty,
 fierce, and gross on both sides--again enlivened Paris. They raised
 more houses than they had ever had before, and got admission into
-Protestant Béarn and the Canadian mission. There was hardly a more
+Protestant BÃ©arn and the Canadian mission. There was hardly a more
 generous benefactor to the Society in Europe than Henry, though we may
 take the word of Richelieu that he distrusted them, as a body, and
 acted from policy. At length Henry betrayed the real shallowness of
@@ -3756,13 +3732,13 @@ The question whether the Jesuits were implicated in the crime of
 Ravaillac is one of the hundred almost insoluble problems of their
 history. On this occasion, indeed, it is exceptionally difficult
 to reach a confident verdict, because an entirely pro-Spanish
-and pro-Jesuit régime was set up by the death of Henry, and
+and pro-Jesuit rÃ©gime was set up by the death of Henry, and
 inconvenient testimony could easily be suppressed. It seems to me
 that a consideration of great importance is generally overlooked in
 the discussion of these problems. When the evidence is scanty or
 obscure, we give the Jesuits "the benefit of the doubt," as if we were
 arraigning them for something they regarded as a crime. This is a false
-attitude, of which they take full advantage. Crétineau-Joly quotes a
+attitude, of which they take full advantage. CrÃ©tineau-Joly quotes a
 dozen distinguished theologians of the time who taught that it was just
 and proper to remove a monarch whose rule was gravely injurious, and
 hardly a single eminent theologian who taught the contrary. We have
@@ -3771,7 +3747,7 @@ the same proportion, and we see at once that there must have been--and
 we know that there were--numbers of Jesuits in every province who would
 regard the assassination of a king who threatened the faith in his
 country as a quite moral and meritorious deed. Mariana's claim that
-Jacques Clément, the murderer of Henry III., was "the eternal glory of
+Jacques ClÃ©ment, the murderer of Henry III., was "the eternal glory of
 France" was echoed by thousands of his colleagues. It seems to me very
 material to bear this in mind in all these cases of assassination. The
 attitude of their apologists is singular: they admit that the Jesuits
@@ -3783,18 +3759,18 @@ Henry IV. was not a crime.
 We must, on the other hand, say that the evidence of Jesuit complicity
 with Ravaillac is unsatisfactory, in spite of Michelet's spirited
 reliance on it. A certain Mme d'Escoman asserted that she overheard the
-Duke d'Épernon telling the plot to Henry's former lover, the Marquise
+Duke d'Ã‰pernon telling the plot to Henry's former lover, the Marquise
 de Verneuil, and that she revealed it to the Jesuit superior in good
 time to warn Henry; a soldier named Dujardin then told that he had seen
-Ravaillac in the service of Épernon at Naples, and that the Jesuits
+Ravaillac in the service of Ã‰pernon at Naples, and that the Jesuits
 of that city had urged him (Dujardin) to enter the plot. Both these
 witnesses were of low moral character, and had a prospect of gaining
 by their revelations; we must therefore refrain from basing a verdict
 on their evidence. A recent French student of the subject[12] has
-concluded that Épernon and others were really plotting to take the life
+concluded that Ã‰pernon and others were really plotting to take the life
 of Henry, but that Ravaillac committed the crime on his own initiative,
 and that the Jesuits were not in either plot, though it may be true
-that Mme d'Escoman warned them of Épernon's plot. This ingenious, but
+that Mme d'Escoman warned them of Ã‰pernon's plot. This ingenious, but
 not wholly convincing, suggestion explains how Ravaillac could, with
 his dying breath and under threat of damnation, swear that he had no
 accomplices, but it really leaves open the question of the guilt of
@@ -4011,14 +3987,14 @@ At Rome a more prolonged and more academic quarrel had nourished the
 feeling against the Society. The subject-matter of this controversy
 is of interest only to theologians, and the whole struggle must be
 dismissed in a few words. In brief, a Jesuit theologian of Portugal,
-named Molina, had in 1588 published a work (_Liberi arbitrii cum gratiæ
+named Molina, had in 1588 published a work (_Liberi arbitrii cum gratiÃ¦
 donis concordia_), in which he had made novel efforts to illumine the
 mystery of the consistency of human freedom with the action of grace,
 and the way in which God may have a foreknowledge of events which
-may or may not take place. When Crétineau-Joly observes that Molina
+may or may not take place. When CrÃ©tineau-Joly observes that Molina
 "talked as if he had been admitted to the counsels of the Most High,"
 we can understand the indignation of rival theologians of the time.
-A Dominican theologian, named Bañez, had a different theory of these
+A Dominican theologian, named BaÃ±ez, had a different theory of these
 abstruse matters, and there was soon a fierce quarrel between the
 two orders. When the Spanish Inquisition refused to condemn Molina,
 the Dominicans carried the quarrel to Rome, where it enlivened and
@@ -4200,8 +4176,8 @@ sometimes receives.
 
 FOOTNOTES:
 
-[Footnote 9: See Father Astrain's _Historia de la Compañia de Jesus en
-España_, vol. ii. chap. iii., chap. v. and elsewhere.]
+[Footnote 9: See Father Astrain's _Historia de la CompaÃ±ia de Jesus en
+EspaÃ±a_, vol. ii. chap. iii., chap. v. and elsewhere.]
 
 [Footnote 10: It was, and still is in Catholic countries, a custom to
 incline the head at the mention of the name Jesus.]
@@ -4249,7 +4225,7 @@ Jesuit history which closes with the Gunpowder Plot.
 Since the beginning of the Reformation in England a number of Catholic
 students had gone abroad, and many of them had entered the Jesuit
 novitiate in Belgium, Germany, and Italy. Father More has preserved
-in his _Historia missionis Anglicanæ_ (1660) the names of about thirty
+in his _Historia missionis AnglicanÃ¦_ (1660) the names of about thirty
 Englishmen who figure in the chronicles of one or other province down
 to the year 1580. Of these the most important were Robert Parsons and
 Edmund Campion, who opened the mission of 1580. Parson, a Somersetshire
@@ -4448,7 +4424,7 @@ him to London, conspicuously labelled "Campion the seditious Jesuit."
 We will not linger over the racking, the thrusting of spikes between
 his fingers and nails, and the other horrible devices by which the
 Council sought to extract a betrayal of others; though we might remind
-those who, like Crétineau-Joly, speak of these things as the hideous
+those who, like CrÃ©tineau-Joly, speak of these things as the hideous
 inventions of Protestant hatred, that these appalling instruments were,
 on the contrary, already stained with Protestant blood. Campion's great
 courage wavered under the long and terrible strain, and he supplied a
@@ -4856,7 +4832,7 @@ represent it as matter heard in confession.
 
 As the innocent and estimable Oldcorne had been executed on 7th April,
 the Jesuit mission was over for a time, and the hopes of Catholicism
-blasted. Crétineau-Joly gives an inaccurate list of seven Jesuits who
+blasted. CrÃ©tineau-Joly gives an inaccurate list of seven Jesuits who
 "perished" under Elizabeth, and airily adds "a hundred others." The
 truth is that from 1580 to 1606 there had only been a score of Jesuits
 in England, even including the secular priests who were permitted to
@@ -4955,12 +4931,12 @@ life of the Society; though we shall still find it singularly
 unaffected by this mass of stern legislation.
 
 The long generalship of Mutio Vitelleschi (1615-1645) is, says
-Crétineau-Joly, "a monotonous stretch of felicity." When, however,
+CrÃ©tineau-Joly, "a monotonous stretch of felicity." When, however,
 we turn to the official Jesuit historian, Cordara, who continues
 the _Historia Sociatatis_, we find that the year which immediately
 followed the election was marked by serious disturbances or scandals
 at Castellone, Genoa, Artois, Paris, Lyons, Freiburg, and Worms, and
-in Sicily, Béarn, Castile, Poland, and Hesse-Cassel. We shall further
+in Sicily, BÃ©arn, Castile, Poland, and Hesse-Cassel. We shall further
 see that the monotony of the thirty years is relieved by a scandalous
 bankruptcy of the fathers at Seville, a temporary expulsion from Malta,
 Bohemia, and Hungary, a combined attack upon the Society by the leading
@@ -5044,7 +5020,7 @@ not made a vow of poverty), and their defence in this singular case is
 that Brother Villar, who held this charge at Seville, borrowed large
 sums of money and invested them in shipping and other concerns, without
 the knowledge of the fathers. His speculations proved disastrous, and
-the fathers found themselves bankrupt. Crétineau-Joly genially closes
+the fathers found themselves bankrupt. CrÃ©tineau-Joly genially closes
 the episode with an assurance that the fathers found the money and
 expelled the offending brother from the fraternity.
 
@@ -5062,8 +5038,8 @@ of their most conscientious adversaries, give a different version in
 his second letter to Pope Innocent X., but a paper written by one of
 the creditors and submitted to the King of Spain (who favoured the
 Jesuits) has survived, and must command our confidence. From this
-memoir or petition, which is reproduced in the _Annales de la Société
-des soi-disans Jésuites_ (iii. 976), I propose to take the facts of the
+memoir or petition, which is reproduced in the _Annales de la SociÃ©tÃ©
+des soi-disans JÃ©suites_ (iii. 976), I propose to take the facts of the
 scandal.
 
 From communities of nuns and the pious laity of the town, both rich
@@ -5135,7 +5111,7 @@ teaching and ministration, punctuated by unworthy manoeuvres here
 and there to obtain power or repress rivals, and never rising above
 mediocrity. A few words on their relations to the court and Richelieu,
 to the bishops and universities, and to new reformers like Cardinal de
-Bérulle and St. Vincent de Paul, will suffice for our purpose.
+BÃ©rulle and St. Vincent de Paul, will suffice for our purpose.
 
 The petty intrigues and successive dismissals of the Jesuit confessors
 to the court are not of sufficient consequence for us to linger over
@@ -5157,7 +5133,7 @@ the minister. Two of them especially, written (it seems) by Father
 Keller, the Jesuit confessor of Maximilian of Bavaria, and entitled
 _Mysteria Politica_ and _Admonitio ad Regem Christianissimum_, gave him
 great annoyance. They were condemned and burned, together with Father
-Santarelli's _De Hæresi_ (1626), but Richelieu was almost exhausted by
+Santarelli's _De HÃ¦resi_ (1626), but Richelieu was almost exhausted by
 the violence of the first storm his policy brought upon him, and he did
 not take the extreme measure against the Jesuits which he was said to
 contemplate. It is clear that they realised his power and resolved to
@@ -5206,14 +5182,14 @@ one of the most curious instances of their power of adaptation to
 circumstances.
 
 I have said that Richelieu despised the Jesuits, and his correspondence
-with Father (later Cardinal) de Bérulle suggests this. De Bérulle, a
+with Father (later Cardinal) de BÃ©rulle suggests this. De BÃ©rulle, a
 man of exalted character and piety, was the founder of the Oratorian
 priests, and a valued friend of the minister. We have a letter that he
 wrote to Richelieu in 1623, which contains, in the mild and charitable
 language of a saint, a very painful indictment of the French Jesuits.
 Their jealousy of the new congregation and determination to prevent its
 growth led to some extremely unworthy conduct. In town after town, as
-de Bérulle describes in detail, the Oratorians removed the prejudice
+de BÃ©rulle describes in detail, the Oratorians removed the prejudice
 against the Jesuits, and even surrendered property to them, and the
 Jesuits then repaid their benefactors with slander and intrigue. At
 Dieppe the governor refused to allow the Jesuits to found a college,
@@ -5221,10 +5197,10 @@ but gladly admitted the Oratorians. A Jesuit then asked the hospitality
 of the Oratorians, and used the opportunity to intrigue against them,
 in favour of the Society, among the citizens. A letter in which he
 informed his colleagues of his hope of winning the college from the
-Oratorians was intercepted and sent to de Bérulle. At Paris the
+Oratorians was intercepted and sent to de BÃ©rulle. At Paris the
 King offered the Oratorians a hotel, but the Jesuits intervened and
 prevented the gift. They told "strange and atrocious calumnies" of de
-Bérulle at the court, and at Bordeaux they proposed to indite him for
+BÃ©rulle at the court, and at Bordeaux they proposed to indite him for
 heresy. The intrigue covers the whole of France during more than ten
 years, and betrays a very general lack of moral sensitiveness among the
 French Jesuits. In a similar, though less vigorous, way they attempted
@@ -5242,7 +5218,7 @@ their work and influence. In 1620 the Jesuits of Poitiers defy the
 bishop, who lays an interdict on their church; the bishop has decreed
 that his people must attend their parish churches once in three weeks
 at least, and the Jesuits reply from the pulpit that it is enough if
-the people attend _their_ church. At Angoulême, in 1622, they secure,
+the people attend _their_ church. At AngoulÃªme, in 1622, they secure,
 through Father Coton and by a secret contract with the mayor, the
 monopoly of teaching and the control of the university. They continue
 for four years to defy the bishop and stir the people against him,
@@ -5264,14 +5240,14 @@ An incident that occurred in the province of Lorraine, which was
 annexed by Richelieu in 1633, deserves special consideration. The
 impetuous and sensuous young Duke, Charles IV., chose the Jesuit
 Cheminot as his confessor in 1637, and a week later, although his
-first wife still lived, he married the Princess Béatrix de Cusance.
+first wife still lived, he married the Princess BÃ©atrix de Cusance.
 Instead of retiring from the court, which was at once assailed from
 all parts of France for the bigamy, Cheminot wrote a casuistic memoir
 to prove that the marriage was valid, and clung to the duke for six
 years. The misconduct of an individual Jesuit is, as I have said, not
 matter for serious history, and, if it were true that Cheminot defied
 his own superiors, there would be no occasion to dwell on it. But the
-correspondence published by Crétineau-Joly shows plainly that the
+correspondence published by CrÃ©tineau-Joly shows plainly that the
 Jesuit authorities acquiesced in Cheminot's position for many years.
 We find Charles writing to General Vitelleschi in 1639, in friendly
 terms, to complain that some of the other Jesuits are hostile to his
@@ -5290,7 +5266,7 @@ obtain a very large share in the education of the young. The Flemish
 fathers made a singular contribution to the literature of the Society,
 which has given its more sober admirers much embarrassment. In the
 year 1636, which they chose to regard as the centenary of the Society,
-they published a work, the _Imago Primi Sæculi_, in which they gave,
+they published a work, the _Imago Primi SÃ¦culi_, in which they gave,
 by pen and pencil, a marvellous account of the first hundred years of
 the Society's life. Its progress and virtues were put on the highest
 scale of miraculous heroism; the Jesuits were represented as a troop of
@@ -5300,7 +5276,7 @@ represents the work as a "touching fiction" and "pious dithyramb,"
 we need not give it serious attention. Undoubtedly it was imposed on
 Belgium and other countries at the time as veracious history.
 
-M. Crétineau-Joly is not so candid when he turns to Holland. He marks
+M. CrÃ©tineau-Joly is not so candid when he turns to Holland. He marks
 how, in spite of the heretical atmosphere, the Jesuits have planted
 colonies at Amsterdam, The Hague, Utrecht, Leyden, Harlem, Delft,
 Rotterdam, Gouda, Hoorn, Alkmaer, Harlingen, Groningen, Bolsward,
@@ -5383,7 +5359,7 @@ I have said that they fiercely resented the attitude of Richelieu; yet,
 it is curious to note, they took a singular advantage of it in their
 own interest. One of the articles of the treaty which Richelieu made
 with the northern heretics provided that after their victories they
-should respect Jesuit settlements. Crétineau-Joly reproduces a letter
+should respect Jesuit settlements. CrÃ©tineau-Joly reproduces a letter
 in which Louis XIII. reminds his Protestant allies of this provision.
 The French apologist would have us believe that the agreement was
 distasteful to the Jesuits themselves,--on this point he quotes no
@@ -5439,7 +5415,7 @@ in their celebration of the canonisation of St. Ignatius a public
 discussion of certain theses. The university professors and students
 prevented them from doing so, and a long and angry quarrel followed.
 In 1626 a decree of the States-General of Poland (reproduced in
-the _Mercure Jésuite_, ii. 312) closed the Jesuit school, and the
+the _Mercure JÃ©suite_, ii. 312) closed the Jesuit school, and the
 University sent a formal report to Louvain and other universities,
 begging them to unite against the intrigues of the Jesuits. This
 letter, dated 29th July 1627, contains very grave charges against the
@@ -5447,7 +5423,7 @@ Society, and considerably strengthened the opposition to them in the
 university towns of Europe. It complains that the Jesuits sent their
 pupils in arms against the university students, and, when a riot
 occurred, induced the King to send troops against the students. As
-grave trouble occurred about the same time at Louvain, Douai, Liège,
+grave trouble occurred about the same time at Louvain, Douai, LiÃ¨ge,
 Salamanca, and other universities, there was a general concentration of
 the professors throughout Europe in hostility to the Society. However
 much we may suspect partiality or exaggeration in their severe charges,
@@ -5589,7 +5565,7 @@ They did not obtrude the crucifix on the notice of their converts, and
 they looked leniently on the worship of ancestors and the veneration
 for Kung-fu-tse. When the Dominicans and Franciscans insisted on the
 drastic purity of the faith, and characterised the pagan moralist with
-all the vigour of mediæval intolerance, the Jesuits persuaded the
+all the vigour of mediÃ¦val intolerance, the Jesuits persuaded the
 Chinese to expel them, and a spirited struggle, which will engage us at
 a later stage, took place in regard to their "Chinese rites."
 
@@ -5687,7 +5663,7 @@ that the charge was not groundless. In the same period, finally, they
 obtained, through France, permission to enter the Turkish Empire,
 and they began the work of organising the surviving Christians, and
 assailing the Nestorians, in Greece, Asia Minor, Syria, Persia, Armenia
-and Chaldæa.
+and ChaldÃ¦a.
 
 FOOTNOTES:
 
@@ -5699,15 +5675,15 @@ but many believe that the denial was merely a matter of policy.]
 
 [Footnote 19: See the author's _Iron Cardinal_ (1909), p. 341.]
 
-[Footnote 20: Crétineau-Joly suppresses the whole of these facts, and
-describes Père de Bérulle as "intimately united with the Jesuits"! De
-Bérulle's letter to Richelieu is published in the _Annales_, ii. 738.]
+[Footnote 20: CrÃ©tineau-Joly suppresses the whole of these facts, and
+describes PÃ¨re de BÃ©rulle as "intimately united with the Jesuits"! De
+BÃ©rulle's letter to Richelieu is published in the _Annales_, ii. 738.]
 
 [Footnote 21: Many of the documents are collected in the _Annales de
-la Société des soi-disans Jésuites_. The most familiar procedure of
+la SociÃ©tÃ© des soi-disans JÃ©suites_. The most familiar procedure of
 the Jesuits was to accuse the monks of corruption and rely on their
 influence at court to prevent too close an inquiry. The French Conseil
-d'État forced them, as late as 4th August 1654, to restore three abbeys
+d'Ã‰tat forced them, as late as 4th August 1654, to restore three abbeys
 to their lawful owners.]
 
 
@@ -5725,7 +5701,7 @@ The most important conclusion that one can draw from this extensive and
 varied body of experiences is that every attempt to impose a uniform
 character on the early Jesuits must fail. The uniformity in virtue and
 heroism which is ascribed to the Society in the florid pages of the
-_Imago Primi Sæculi_ is as far removed from the truth as the uniformly
+_Imago Primi SÃ¦culi_ is as far removed from the truth as the uniformly
 dark features which are imposed on the Jesuits by some writers of
 the opposing school. The candid historian must follow the example of
 Macaulay, and give contrasted pictures of the light and the darkness,
@@ -5745,7 +5721,7 @@ were very largely disregarded. The complaint is constant and well
 founded that the Jesuits looked less to character and devotion than to
 ability and social position in examining the candidates for admission.
 It is, perhaps, singular that this did not at least give the Society
-a more imposing intellectual status. Crétineau-Joly has industriously
+a more imposing intellectual status. CrÃ©tineau-Joly has industriously
 collected the names of the chief writers and scholars who adorned the
 annals of the Society during the first two centuries. One need only
 say that, apart from theologians, there are very few names in the list
@@ -5821,7 +5797,7 @@ Roman officials raised the mission to the status of a vice-province;
 in 1623, when there were 284 members, they were formed into a Province
 of the Society, with Father Blount as Provincial. The indisposition of
 James I. to persecute emboldened them to act with greater vigour. The
-fantastic picture of their activity in Crétineau-Joly is, of course,
+fantastic picture of their activity in CrÃ©tineau-Joly is, of course,
 wholly inaccurate. We read of a Father Arrowsmith "issuing from his
 retreat" to challenge and defeat the Bishop of Chester in a debate, and
 expose himself to the prelate's vindictiveness. It was not in 1628, but
@@ -5908,7 +5884,7 @@ estimated that there were 360 Jesuits in England, and that they had 550
 students in their colleges. This is evidently an exaggeration, as the
 _Annual Letters_ report a total of 335 members of the Province in the
 year 1645, and disclose the interesting fact that they had a collective
-income of 17,405 _scudi_ (about £35,000 in the value of modern money).
+income of 17,405 _scudi_ (about Â£35,000 in the value of modern money).
 It is stated by their clerical opponents that part of their income was
 derived from commerce. A certain soap was genially known in London as
 "the papist soap," and it is said that the Jesuits had, through their
@@ -6088,12 +6064,12 @@ correspondence with Versailles. Jesuits in London were on such a
 footing at St. James's Palace that they were allowed to hold their
 secret meetings in its chambers, and on the French side the whole
 correspondence was conducted by the famous Jesuit confessor of Louis
-XIV., Père la Chaise; and the apologists would have us believe that
+XIV., PÃ¨re la Chaise; and the apologists would have us believe that
 this correspondence, of such profound import to the future of the
 Jesuit body in England, was carried on for several years without their
 knowledge and connivance. We should have to believe, in fact, that even
 the Duke of York was ignorant of it, since he concealed nothing from
-the Jesuits, and that Père la Chaise did not give the least inkling
+the Jesuits, and that PÃ¨re la Chaise did not give the least inkling
 of it to his colleagues. One would need an extraordinary measure of
 credulity to imagine the Jesuits frequenting St. James's Palace week
 after week for years and being entirely ignorant that their friend
@@ -6283,7 +6259,7 @@ injudiciousness of their patron and cast all the blame on Sunderland.
 While, however, Sunderland remained a Protestant until a few months
 before the fall of James, the monarch was throughout the three years
 surrounded by Jesuits and abjectly devoted to them. A letter written
-by the Jesuits of Liège to the Jesuits of Freiburg, and intercepted by
+by the Jesuits of LiÃ¨ge to the Jesuits of Freiburg, and intercepted by
 the Dutch, informs us of the influence they had on James II.[25] He
 is a devoted son of the Society; he is determined to convert England
 by its means; he refuses to allow any Jesuit to kiss his hand. And
@@ -6300,7 +6276,7 @@ Privy Councillor, and Father Petre takes the Oath of Allegiance (with
 its supposed heresy) and sits in clerical garb in the supreme council
 of the land. His Roman superiors have not a word to say, either when
 Petre acquiesces in the demand for a red hat or when he becomes a Privy
-Councillor. M. Crétineau-Joly is shocked; Father Taunton opines that
+Councillor. M. CrÃ©tineau-Joly is shocked; Father Taunton opines that
 the whole policy is directed by the Jesuit authorities at Rome.
 
 In later years, when the Jesuits and courtiers gathered about the
@@ -6420,7 +6396,7 @@ fantastic. See Father Foley's _Records_, ii. p. 32, for Arrowsmith.]
 defence of the Catholic position, in opposition to Mr. Pollock, see A.
 Marks, _Who Killed Sir Edmund Berry Godfrey?_ 1905.]
 
-[Footnote 25: As the letter is inconvenient, Crétineau-Joly suggests
+[Footnote 25: As the letter is inconvenient, CrÃ©tineau-Joly suggests
 that it was forged. But it is admitted by the Jesuit Father Foley,
 without demur, in his _Records_.]
 
@@ -6436,7 +6412,7 @@ The story of the Jesuits in France from the middle of the seventeenth
 to the middle of the eighteenth century is rich in material for the
 interpretation of their character. We find every conceivable type of
 Jesuit rising to prominence at some period in the long chronicle.
-While a Father François Régis or a Julien Manvir sustains the finest
+While a Father FranÃ§ois RÃ©gis or a Julien Manvir sustains the finest
 traditions of the Society by a splendid expenditure of a noble
 character in the service of the squalid peasantry, his colleagues
 smile indulgently upon the perfumed vices of nobles and princes,
@@ -6466,11 +6442,11 @@ struggle as to the real relations of divine grace and the human will
 had to be suppressed by the Papacy, and all further controversy on
 the subject was forbidden. When therefore, in the thirties of the
 seventeenth century, the Jesuits heard that a certain brilliant and
-virtuous _abbé_ at Paris and a learned theologian of Belgium were
+virtuous _abbÃ©_ at Paris and a learned theologian of Belgium were
 plotting to introduce a new work on the subject, they watched them with
 care.
 
-Jean Duvergier de Hauranne, or the _abbé_ de St. Cyran, was an
+Jean Duvergier de Hauranne, or the _abbÃ©_ de St. Cyran, was an
 energetic Basque who had finished his theological studies at Louvain
 University. There he had become intimate with a Belgian student named
 Jansen, who had views, opposed to those of the Jesuits, on the action
@@ -6484,22 +6460,22 @@ shall see later), there was a predisposition to accept anti-Jesuit
 views. Further, there was already a tradition of hostility to the
 Jesuits among the Puritans. The chief centre of the ascetic movement
 was the famous abbey of Port Royal, and the abbess of Port Royal,
-Angélique Arnauld, was a daughter of the great lawyer who had more than
+AngÃ©lique Arnauld, was a daughter of the great lawyer who had more than
 once formulated the grievances of the Parlement against the Society.
 Several members of his large and brilliant family were drawn into the
 movement.
 
-Angélique Arnauld had been committed to the abbey at a very early age
+AngÃ©lique Arnauld had been committed to the abbey at a very early age
 by her parents; and, although it shared the general laxity of convents
 at that time, she chafed for years against her fate. The abbey was in
 a wild, marshy, unhealthy valley, about eighteen miles from Paris. In
-the course of time Angélique was converted, and she became abbess of
+the course of time AngÃ©lique was converted, and she became abbess of
 the convent, and devoted all her energy and talent to the purification
 of its life. It became a famous garden of conventual virtues, and, when
 the unhealthiness of the valley compelled the nuns to transfer their
 establishment to Paris in 1626, every pietist in the city was attracted
 to the abbey of Port Royal de Paris. St. Cyran fell into correspondence
-with Angélique, defended a book of hers which the Jesuits denounced,
+with AngÃ©lique, defended a book of hers which the Jesuits denounced,
 and in 1633 became the spiritual director of the community. The convent
 now had pretensions to be a school of fine taste in letters as well
 as of virtue, and numbers of the more sincerely religious writers and
@@ -6520,7 +6496,7 @@ and his papers restored, it was found that the Jesuits had appropriated
 some of his letters.
 
 St. Cyran continued to direct the movement from Vincennes, and it
-entered upon a singular and momentous development. Angélique inspired
+entered upon a singular and momentous development. AngÃ©lique inspired
 her nephew, the brilliant young lawyer Le Maistre, her brother Antoine,
 and other able and serious young men, with her sentiments, and they
 determined to live a communal and ascetic life. In 1637 they took
@@ -6565,7 +6541,7 @@ released (in the same year), it broke out again into flagrant publicity.
 
 Meantime, a new champion had entered the field, and the attack on
 the Jesuits assumed a more personal form. Anne de Rohan, Princess of
-Guémenée and mistress of Archbishop Paul de Gondi (later Cardinal de
+GuÃ©menÃ©e and mistress of Archbishop Paul de Gondi (later Cardinal de
 Retz), fell under the influence of Arnauld d'Andilly and St. Cyran, and
 their oratory and her advancing years persuaded her that the hour had
 come to turn to virtue. She had had a Jesuit confessor, like so many
@@ -6573,14 +6549,14 @@ of the noble dames and bejewelled prelates who did not deign even to
 conceal their amours, and he was naturally piqued to find that, as the
 princess advanced in virtue, she discarded him in favour of St. Cyran.
 There is no doubt whatever of Anne de Rohan's sincerity, and it is
-little short of infamous for Crétineau-Joly to say that she "placed her
+little short of infamous for CrÃ©tineau-Joly to say that she "placed her
 elegant coquetries under the safeguard of the aged Arnauld d'Andilly,"
 and that she was at the same time "the guest of Port Royal and the
 mistress of Paul de Gondi." The discarded Jesuit submitted to her a
 manuscript attack on the more rigorous principles she had embraced;
 Anne de Rohan showed this indignantly to St. Cyran; and the brilliant
-young brother of Angélique Arnauld was requested to reply. His book _De
-la fréquente Communion_ (1641) led to a controversy as acrid and noisy
+young brother of AngÃ©lique Arnauld was requested to reply. His book _De
+la frÃ©quente Communion_ (1641) led to a controversy as acrid and noisy
 as that over the _Augustinus_.
 
 Arnauld had foreseen the attack; he had submitted the manuscript to
@@ -6593,7 +6569,7 @@ that all the virtuous men in the French episcopacy were opposed to
 the Jesuits, and all the vicious prelates in favour of them. But it
 was an age so flagrantly immoral that the greater part of the higher
 clergy had their mistresses, their hounds and hawks, and their boxes
-at the opera, while on the fringe of the Church were crowds of _abbés_
+at the opera, while on the fringe of the Church were crowds of _abbÃ©s_
 (often not priests) who led very dissolute lives. The Jesuits had for
 some time, in virtue of their influence at court, had a voice in the
 appointment of prelates--we shall find them entirely controlling it in
@@ -6667,7 +6643,7 @@ Jansen's book.
 
 The Papacy still hesitated, in view of the disputable nature of the
 Sorbonne vote, and intimated that the French prelates should be induced
-to ask for a condemnation. According to M. Crétineau-Joly, the reply
+to ask for a condemnation. According to M. CrÃ©tineau-Joly, the reply
 was prompt and spontaneous. "The General Assembly of the clergy opens
 at Paris, and eighty-eight bishops denounce the five propositions to
 Pope Innocent"; the Jesuits, he says, stood aside and let the prelates
@@ -6877,7 +6853,7 @@ in the end--if we may anticipate a little, in order to finish this
 episode--they were officially condemned by the French Church. For a
 time Louis XIV. prevented their opponents from submitting the matter
 to the General Assembly of the Clergy, but, when Mme de Montespan
-succeeded Mlle de la Vallière in his affections, Bossuet and the
+succeeded Mlle de la ValliÃ¨re in his affections, Bossuet and the
 Archbishop of Paris used her influence to secure the king's consent,
 and in 1700 their doctrines (and those of other lax theologians) were
 severely condemned. The only mitigation which the Jesuits could secure
@@ -6891,12 +6867,12 @@ the Jesuits relentlessly persecuted them. Under court-pressure the
 Assembly of the Clergy decreed that all teachers and religious were to
 submit to the Pope's bull, and a kind of inquisition was established
 for the first time in France. A formulary was devised, and a royal
-decree enacted that it must be signed. The "grand Turc très Chrétien"
+decree enacted that it must be signed. The "grand Turc trÃ¨s ChrÃ©tien"
 was at that time easily led by his confessor and other Jesuits in
 religious matters, and his light-hearted court, under the presidency
-of Mlle de la Vallière, was not at all unwilling to see the dour
+of Mlle de la ValliÃ¨re, was not at all unwilling to see the dour
 Jansenists beaten by their indulgent confessors. The nuns of Port Royal
-made an heroic stand against the official untruth. Angélique Arnauld
+made an heroic stand against the official untruth. AngÃ©lique Arnauld
 was now dead, but her sister Agnes induced the nuns to resist alike the
 honeyed persuasion of Bossuet and the angry menaces of the Archbishop
 of Paris. In 1664 the archbishop returned with the more formidable
@@ -6939,24 +6915,24 @@ burned. Jesuit succeeded Jesuit in the care of the King's conscience,
 in spite of his notorious and continuous immorality during nearly
 twenty years. Their French apologist ventures to tell us that they
 "declared war on the King's heart," and quotes Bayle as saying, in
-regard to the _liaison_ with Mlle de la Vallière, that "Father Annat
+regard to the _liaison_ with Mlle de la ValliÃ¨re, that "Father Annat
 teased the prince daily about it and gave him no rest." It is one of
-the most flagrant pieces of "Jesuitry" in M. Crétineau-Joly's work.
+the most flagrant pieces of "Jesuitry" in M. CrÃ©tineau-Joly's work.
 Bayle (in a note to the article _Annat_) merely quotes these words
 from a pamphleteer whom he describes as utterly unworthy of credence;
 and I may add that the purpose of the pamphleteer is merely to prove
-that the later confessor, Père la Chaise, was worse than Père Annat.
+that the later confessor, PÃ¨re la Chaise, was worse than PÃ¨re Annat.
 The truth is that Annat remained in his charge during the whole of the
-eight years when Louis clung to Mlle de la Vallière, and, when the
+eight years when Louis clung to Mlle de la ValliÃ¨re, and, when the
 brilliant and unscrupulous Marquise de Montespan succeeded in securing
-the position of royal mistress in 1670, and Père Annat retired on the
-ground of age, his colleague Père Ferrier took his place. For four
+the position of royal mistress in 1670, and PÃ¨re Annat retired on the
+ground of age, his colleague PÃ¨re Ferrier took his place. For four
 years he remained in charge of the King's remarkable conscience, and it
 is not irrelevant to observe that he was rewarded with a power that no
 royal confessor had hitherto had in France. He and his colleagues now
 had the sole right to nominate bishops, and the character of the French
 episcopacy in the later years of Louis XIV. is largely attributable to
-them. Ferrier died in 1674, and the famous Père la Chaise, a man of
+them. Ferrier died in 1674, and the famous PÃ¨re la Chaise, a man of
 moderate ability but courtly manners, was appointed royal confessor. He
 remained at his post during the remaining five years of the _liaison_
 with Mme de Montespan, and it was Mme de Maintenon (and advance in
@@ -7058,7 +7034,7 @@ of the Protestants. It would be a mistake to cast the whole blame of
 this lamentable cruelty and its evil effects for the country upon the
 Jesuits. The higher French clergy generally still entertained the
 persecuting spirit, and had for years pressed for violent measures
-against the sectarians, who refused to yield to their arguments. Père
+against the sectarians, who refused to yield to their arguments. PÃ¨re
 la Chaise was only one of many narrow-minded priests who impelled Louis
 XIV. to crown a series of unjust measures against the Protestants with
 this cruel and impolitic act. It was, however, the consummation of the
@@ -7096,10 +7072,10 @@ the familiar untruth, and they declared that they would subscribe to it
 only with a qualifying clause. We have no documentary proof that the
 Jesuits inspired the events which followed this reserve, but the blame
 was openly cast upon them at the time, and the circumstances suggest
-it. The King--still under the guidance of Père la Chaise--wrote to
+it. The King--still under the guidance of PÃ¨re la Chaise--wrote to
 the Vatican for permission to destroy the community, and in the early
-spring of 1708 the nuns were definitely scattered. Père la Chaise died
-at the beginning of the following year, and Père Letellier, a grim and
+spring of 1708 the nuns were definitely scattered. PÃ¨re la Chaise died
+at the beginning of the following year, and PÃ¨re Letellier, a grim and
 resolute supporter of the ambitions of the Society, succeeded to the
 office. Under his influence the last insurgent movements of the brave
 nuns were rigorously suppressed, and in January 1710 their ancient and
@@ -7160,7 +7136,7 @@ and pressed him to destroy the power of the Society. Philip of Orleans
 was, however, not the kind of man to sacrifice liberal casuists to the
 Puritans, and graceful preachers to stern parlementarians. A man of
 brilliant parts and frivolous tendencies--he had been educated in vice
-by the Abbé Dubois--he saw no more than a temporary political expedient
+by the AbbÃ© Dubois--he saw no more than a temporary political expedient
 in checking the Jesuits for the satisfaction of his supporters. He soon
 relapsed into ways of indolence and vice; and the Jesuits, gaining the
 ear of his unscrupulous favourites, crept back to power. Dubois desired
@@ -7199,9 +7175,9 @@ immorality of the King, but the forces which would presently dislodge
 them were insensibly gathering power. The Puritans were silenced,
 rather than annihilated, and the Parlement, imputing to the Society
 much of the blame of its exile in 1753, revived its bitter hostility.
-The first stroke fell on them in that year. Father Pérusseau, the
+The first stroke fell on them in that year. Father PÃ©russeau, the
 King's confessor, died, and a successful intrigue put in his place a
-priest who was not a Jesuit. Both Pérusseau and his successor refused
+priest who was not a Jesuit. Both PÃ©russeau and his successor refused
 absolution to a King whose libertinism was so cynically exhibited. In
 view of the persistent attack on their laxity during a hundred years,
 it would have been difficult for a Jesuit to do less. When, however,
@@ -7413,13 +7389,13 @@ at the revolution of 1640, when Portugal won its independence from
 Spain, the Jesuits had so nicely distributed their forces that some
 were sure to be on the winning side; and John IV. was not the man to
 inquire too closely into their conduct. His court soon filled with
-Jesuits. Father Nuñez, a man of great piety and austerity, who had an
+Jesuits. Father NuÃ±ez, a man of great piety and austerity, who had an
 excellent moral influence on the noble dames of the court, guarded the
 consciences of Queen Luisa and her children. Father Fernandez, a very
 different type of Jesuit, was confessor to the King, and had great
 political influence. He was a member of the State-Council and Bishop
 of Japan, and he bore his dignities with a consciousness which greatly
-irritated the nobles. When his humbler colleague, Nuñez, died, he
+irritated the nobles. When his humbler colleague, NuÃ±ez, died, he
 became confessor to the Queen also, and attained a great ascendancy
 over the King. When the Viceroy of India, remarking that Jesuits were
 forbidden to engage in commerce, took from the Jesuits in that country
@@ -7870,7 +7846,7 @@ decay. At the peace of 1713 her empire was shorn of Sicily, Milan,
 Naples, Sardinia, the Netherlands, Gibraltar, and Minorca. Philip
 consulted his Jesuit advisers several times a day, but neither they
 nor his other counsellors could do more than intrigue for power in the
-shrinking kingdom. The Abbé (later Cardinal) Alberoni was now rising to
+shrinking kingdom. The AbbÃ© (later Cardinal) Alberoni was now rising to
 power, and was associated with Robinet in the ruin of Princess Orsini.
 Alberoni persuaded Philip that Elizabeth Farnese was just the quiet
 and modest young princess he desired for his second wife, and Philip
@@ -7903,7 +7879,7 @@ to the throne.
 
 Daubenton had died in 1723, and his place had been taken by the Jesuit
 Bermudez, who sustained the tradition of intrigue. The successor of
-Alberoni was a Spaniard from the Low Countries, Ripperdá, who was
+Alberoni was a Spaniard from the Low Countries, RipperdÃ¡, who was
 obnoxious to the Jesuits on many grounds. In Holland he had consulted
 his ambition by turning Protestant, and on his return to Spain, where
 he found favour with the King, he promptly recovered his belief in
@@ -7911,7 +7887,7 @@ the older creed. The Queen's confessor, a Jesuit who rejoiced in the
 title and robes of Archbishop of Amida, intrigued against this singular
 adventurer and overthrew him. Here again the Jesuit merely used his
 opportunities to voice the resentment of many others, nor do historians
-regard the downfall of Ripperdá with any sympathy, but the intrigues
+regard the downfall of RipperdÃ¡ with any sympathy, but the intrigues
 of the spiritual guides of the court were now so flagrant and so much
 discussed in Europe that Philip was angry. When, shortly afterwards,
 Father Bermudez offended the Queen by stealthily communicating to the
@@ -7960,9 +7936,9 @@ is often quoted by the Jesuits as an impartial authority, says that
 the letter was "undoubtedly" genuine. Rabago was, he says, ignorant at
 first of foreign affairs, and ruled by a junta of his colleagues in his
 direction of the King, but he became ambitious and intrigued against
-the power of the leading statesmen Carvajal and Enseñada. The letters
+the power of the leading statesmen Carvajal and EnseÃ±ada. The letters
 intercepted in 1754 opened the King's eyes, and when, in the following
-year, the confessor was detected in his intrigues against Enseñada, he
+year, the confessor was detected in his intrigues against EnseÃ±ada, he
 was peremptorily dismissed from office.
 
 Ferdinand continued to trust the other Jesuits and resist the pressure
@@ -8070,7 +8046,7 @@ abolition of the Society. Clement was so angry that he refused to
 receive the wretched exiles. The case is not, as is sometimes said,
 that he forgot to send, or refrained from sending, orders to receive
 the Jesuits. When the first vessel, bearing 600 dejected priests, made
-for the port of Civitá Vecchia, it was warned off by the roar of papal
+for the port of CivitÃ¡ Vecchia, it was warned off by the roar of papal
 cannon, and for some weeks the miserable men tossed on the waves of
 the Mediterranean in sight of the inhospitable papal states. In the
 end they were dispatched to Corsica, to enjoy their slender pensions.
@@ -8268,7 +8244,7 @@ however, an adverse report reached Rome, and a serious inquiry opened.
 The ten Jesuits at the Chinese court wrote to say that the emperor
 himself endorsed their interpretation of the Chinese doctrines and
 rites, but, although the new Pope, Clement XI., was favourable to
-the Society, and Père la Chaise threw the influence of France into
+the Society, and PÃ¨re la Chaise threw the influence of France into
 the scale, the testimony of the other missionaries was too plain to
 be ignored. An experienced missionary and able young prelate, Mgr.
 (later Cardinal) de Tournon, was sent out in 1703 to examine the Jesuit
@@ -8306,7 +8282,7 @@ stubborn cardinal was eventually removed by poison.
 Since we know that the Jesuits had paramount influence at Peking,
 Macao, and Goa, and could easily have secured a proper treatment of the
 Pope's representative, we are compelled to believe these witnesses.
-Crétineau-Joly's statement, that "they did not dare to intervene
+CrÃ©tineau-Joly's statement, that "they did not dare to intervene
 between the emperor and the legate," is little less than frivolous.
 They directed the whole proceedings--as usual, through others. De
 Tournon's assurance that, when a priest was tortured to give evidence
@@ -8475,7 +8451,7 @@ dressed as a Hindu priest of the most sacred caste, had adopted all the
 emblems and practices of the caste, and had behaved throughout life in
 such a way that the other members of the Saniassi sect were unable to
 discover that he was a Christian. Father Britto, Father Beschi, and
-other Jesuits succeeded him in this fantastic rôle. Rome was solemnly
+other Jesuits succeeded him in this fantastic rÃ´le. Rome was solemnly
 assured, as it was from China, that the rites and emblems of the
 Saniassi (which are saturated with Hindu mythology) were "purely civil"
 in their nature; local prelates (who were frequently ex-Jesuits) and
@@ -8608,7 +8584,7 @@ recognise the authority of the Pope. The now familiar device was
 adopted of impressing the monarch with a show of learning and art,
 and trusting to sow the Christian seed insidiously in his dominions.
 In twenty years of assiduous labour the scholar-missionaries added
-much to the slender geographical and archæological lore of Europe, but
+much to the slender geographical and archÃ¦ological lore of Europe, but
 their secret religious mission failed. Abyssinia also still resisted
 their efforts. They converted an Emperor, and he was slain in civil war
 for endeavouring to force the new creed on his people; they secured
@@ -8834,7 +8810,7 @@ spread along the banks of the Amazon and converted a large number of
 the natives. When the Dutch took the town of Maragnon in 1641, and
 threatened their work, the Jesuits were very active in inspiring the
 successful rising against them, and they were rewarded by the King
-with privileges for their protégées. In 1653, Father Vieira, whom
+with privileges for their protÃ©gÃ©es. In 1653, Father Vieira, whom
 we have met in the chapter on Portugal, came out to Brazil, and the
 work proceeded more rapidly. The apologetic writers ask us to admire
 the noble conduct of this gifted father in abandoning the comfort of
@@ -8863,7 +8839,7 @@ of Bishop Palafox at once claims our attention, and I feel justified
 in relying implicitly on the two letters in which this saintly and
 learned prelate stated his grievances to Pope Innocent X. When these
 letters were published, ten years after they were written, the Jesuits
-exclaimed that they were forged, and Crétineau-Joly very dishonestly
+exclaimed that they were forged, and CrÃ©tineau-Joly very dishonestly
 insinuates that there is ground to suspect this. Not only are these
 letters expressly mentioned in a decree of the Congregation of Rites
 (16th December 1660), and not only did Pope Innocent issue three briefs
@@ -8988,7 +8964,7 @@ gathered from this survey. Let us recognise in the first place that
 thousands of the fathers displayed heroic zeal in discharging the work
 which the Society laid on them. Frenchmen, Spaniards, Portuguese, and
 Italians, often of noble birth and brilliant parts, faced the perils
-of a mediæval voyage, wandered afoot over leagues of desolate mountain
+of a mediÃ¦val voyage, wandered afoot over leagues of desolate mountain
 or deadly forest, and laid down their lives courageously under the
 plague or the sword. Yet there is another aspect which we perceive
 just as clearly: another quality which we find in the silken courts of
@@ -9017,7 +8993,7 @@ reductions. Robertson, in his _Letters on Paraguay_, calculates that
 the average Indian earned at least a hundred dollars yearly, and that
 his food, hut, and clothing did not cost fifty. He estimates the total
 value of a hundred thousand such workers and the property as about
-£5,641,200.]
+Â£5,641,200.]
 
 [Footnote 31: In the English translation of Hoensbroech's _Fourteen
 Years a Jesuit_ the figure is wrongly given as 30,000.]
@@ -9183,7 +9159,7 @@ The activity of the Jesuits is very well seen in the election of the
 next king. The Poles were too democratic to admit the hereditary
 principle; they elected their monarch, and each election was now the
 occasion for a gathering of candidates from various parts of Europe and
-a mass of bribery and intrigue. Reusch has published in his _Beiträge_
+a mass of bribery and intrigue. Reusch has published in his _BeitrÃ¤ge_
 (p. 231) a private letter of a Jesuit, Father Bodler, which shows the
 Jesuits over half of Europe intriguing to secure at the election of
 1669 a man who will suit their interests. Father Bodler, confessor
@@ -9411,7 +9387,7 @@ accepted. These instructions make the confessor a spy not only on the
 monarch, but upon his ministers and civic officials, and direct that he
 shall obtain information even about the private lives of his principal
 subjects. We know from other confiscated manuscripts which have been
-published (especially by Döllinger and Reusch) that this information
+published (especially by DÃ¶llinger and Reusch) that this information
 was regularly sent to Rome, and that at every important juncture the
 confessor, who used to ask the monarch for time to consult God and
 his conscience, sent a secret messenger to Rome (or consulted other
@@ -9435,12 +9411,12 @@ matters. Other Jesuits were attached to the princes and nobles, and
 the natural result was a great increase of the power and wealth of the
 Society. Once more the suppression of the order and confiscation of its
 documents have provided a confirmation of the suspicions of historians.
-J. Friedrich (_Beiträge_) has published some of the confiscated
+J. Friedrich (_BeitrÃ¤ge_) has published some of the confiscated
 documents, including a statement drawn up in 1729 by the Procurator
 of the Province of Upper Germany, Father Bissel. From this it appears
 that the German Province of the Society advanced (at a high rate of
 interest) 262,208 guldens to the Catholic Power for the purposes
-of the Thirty Years' War, and the Jesuit college at Liège 200,000
+of the Thirty Years' War, and the Jesuit college at LiÃ¨ge 200,000
 guldens. The Jesuit treasurer appends the remark that these loans must
 be kept strictly secret, as a disclosure "might bring ruin on our
 establishments."
@@ -9457,7 +9433,7 @@ and disappointment, the Emperor Joseph II. light-heartedly joined
 the other Catholic monarchs in the campaign for the suppression of
 the Society, and even Maria Theresa refused to plead for them with
 the Papacy. At that time their property alone was worth more than
-£2,000,000, but the Government discovered that they had anticipated the
+Â£2,000,000, but the Government discovered that they had anticipated the
 dissolution by investing large sums abroad. It is therefore impossible
 to estimate their real wealth, but when we add to the income from their
 vast estates the salaries of royal and noble confessors, the fees
@@ -9480,7 +9456,7 @@ several chairs of theology, which they held at the Vienna University.
 The historian of the university, Kink, fully confirms this statement
 that it deteriorated under the control of the Jesuits. Indeed, the
 learned Oratorian priest Father Theiner, the Prefect of the Vatican
-Archives, shows in his _Histoire du Pontificat de Clément XIV._ that
+Archives, shows in his _Histoire du Pontificat de ClÃ©ment XIV._ that
 in other ways the Jesuits had done grave harm to culture in Catholic
 Germany. Their selfish determination to monopolise teaching and letters
 had destroyed the intellectual life of the non-Jesuit clergy, and there
@@ -9626,8 +9602,8 @@ These fragmentary notices of the life of the Jesuits in the Germanic
 countries suffice to explain that growth of hostility which culminates
 in the destruction of the Society. There is a sharp contrast between
 the picture suggested by these secret Jesuit documents and the picture
-offered to us by writers like Crétineau-Joly and Father Duhr. Few, of
-course, would be so naïve as not to understand that the Jesuit writers
+offered to us by writers like CrÃ©tineau-Joly and Father Duhr. Few, of
+course, would be so naÃ¯ve as not to understand that the Jesuit writers
 carefully select from their "unpublished documents" the occasional
 letters which some really religious Jesuit writes to his fellows or
 his superiors. None but an entirely prejudiced opponent of the Jesuits
@@ -9656,20 +9632,20 @@ FOOTNOTES:
 
 [Footnote 32: Jacobi's _Das Thorner Blutgericht_, and other documents.]
 
-[Footnote 33: The _Geschichte der Jesuiten in den Ländern deutscher
+[Footnote 33: The _Geschichte der Jesuiten in den LÃ¤ndern deutscher
 zunge_, which the German Jesuits are publishing, has not advanced
 beyond the first period.]
 
 [Footnote 34: Published by the Benedictine monk Dudik in the _Archiv
-für Oesterreichische Geschichte_, vol. liv. p. 234.]
+fÃ¼r Oesterreichische Geschichte_, vol. liv. p. 234.]
 
 [Footnote 35: See, especially, the sordid details in Dr. von Lang's
 _Jacobi Morelli, S.J., amores_, 1815.]
 
-[Footnote 36: _Archiv für oesterreichische Geschichte_, Bd. 79, pp.
+[Footnote 36: _Archiv fÃ¼r oesterreichische Geschichte_, Bd. 79, pp.
 277-354; and Bd. 80, pp. 356-458.]
 
-[Footnote 37: _Mémoires des R.R.P.P. Jésuites du Collège de Colmar._]
+[Footnote 37: _MÃ©moires des R.R.P.P. JÃ©suites du CollÃ¨ge de Colmar._]
 
 
 
@@ -9982,7 +9958,7 @@ Every cardinal knew that the four Catholic kings sternly insisted on
 the relief of Parma and the suppression of the Society, and could not
 but reflect on the possible consequences of electing a pro-Jesuit Pope.
 
-Crétineau-Joly represents that the Society and the cardinals in favour
+CrÃ©tineau-Joly represents that the Society and the cardinals in favour
 of it had the support of Maria Theresa, and that she sent Count Kaunitz
 to Rome to express his support. He maintains that it was only after the
 other Catholic monarchs had tempted Joseph II., her son and Emperor,
@@ -9994,7 +9970,7 @@ suppression of the Jesuits, but "could not oppose, and would even be
 glad to see it"; so the Emperor Joseph II. stated. In September of the
 same year the Nuncio at Vienna gave the same report. Joseph II. himself
 came to Rome in March (1769), and the Jesuits clearly learned his
-attitude. When he visited their famous church, the Gesù, General Ricci
+attitude. When he visited their famous church, the GesÃ¹, General Ricci
 hastened to greet him, and was jocularly asked "when he was going to
 change his coat." Later, when they stood before the solid silver statue
 of Ignatius, and Ricci explained that it was due to gifts of friends
@@ -10106,14 +10082,14 @@ Clement again sternly refused. France offered to restore Avignon if he
 would give the assurance, and only excited his indignation. This is the
 Pope whom the Jesuits and their apologists represent as morally and
 intellectually perverse; yet they themselves betrayed, and betray, a
-considerable degree of unscrupulousness in the matter. Crétineau-Joly,
+considerable degree of unscrupulousness in the matter. CrÃ©tineau-Joly,
 ignoring its inconsistency with his whole narrative, quotes a letter in
 which Clement is supposed to tell Louis XV. that he will not abolish
 a Society that has had the blessing of nineteen of his predecessors.
 This letter was forged and published by the Jesuits who lingered in
 disguise in France, and the apologist must have been quite aware that
 the Pope himself indignantly disavowed it in a letter to the Nuncio at
-Paris; indeed, Crétineau-Joly at once goes on to show, from Choiseul's
+Paris; indeed, CrÃ©tineau-Joly at once goes on to show, from Choiseul's
 correspondence, that the French could make nothing of the Pope's
 attitude.
 
@@ -10183,7 +10159,7 @@ more remarkable incident was reported from Paris. Frederick the Great
 cynically informed D'Alembert (in December) that General Ricci had sent
 a secret representative to ask him to declare himself "Protector of the
 Society of Jesus." A little later, again, Maria Theresa discovered that
-her Jesuit confessor Campmüller had, as such confessors were secretly
+her Jesuit confessor CampmÃ¼ller had, as such confessors were secretly
 bound to do, betrayed her confidence to the authorities of the Society
 at Rome.
 
@@ -10234,7 +10210,7 @@ swooning, lying unconscious during the night, and awakening only
 to enter into a delirious fit of terror and remorse, are not worth
 consideration. They are fables retailed years afterwards by Jesuit
 writers (especially Bolgeni), and have not even the artistic merit of
-consistency. Crétineau-Joly seems to give them weighty confirmation
+consistency. CrÃ©tineau-Joly seems to give them weighty confirmation
 by asserting that he had heard _his_ version from the lips of Gregory
 XVI. But he singularly fails to tell us what was the precise story
 he heard from the later Pope, and Father Theiner bluntly questions
@@ -10253,7 +10229,7 @@ the composition of which he had worked assiduously during his two
 writers constantly say that Clement XIV. abolished the Society only on
 the ground that the peace of Christendom demanded that step, and that
 he passed no judgment on the Society itself. Even the recent American
-_Catholic Encyclopædia_, which affects candour and accuracy, states,
+_Catholic EncyclopÃ¦dia_, which affects candour and accuracy, states,
 in the article on Clement XIV. that "no blame is laid by the Pope on
 the rules of the Order, or the present condition of its members, or
 the orthodoxy of their teaching." This is a disingenuous and most
@@ -10359,7 +10335,7 @@ This brief was, as I said, concealed from all but the five cardinals
 who were to carry out the sentence until 17th August. On that day the
 Catholic Powers were officially informed of the signing of the brief.
 At nine o'clock that evening a band of officials and guards entered
-the metropolitan house attached to the Gesù, and ordered Ricci to
+the metropolitan house attached to the GesÃ¹, and ordered Ricci to
 summon all his subjects to the refectory. They knew--some of them had
 witnessed the same scene in Spain and Portugal--that their hour had
 come, but they must have been deeply pained at the wording of the
@@ -10396,7 +10372,7 @@ was not indisposed to laugh at anti-Jesuits as well as Jesuits. No
 doubt the gossips of the city told each other the fables which Jesuits
 reproduced in later years, and their apologist gives as "history"--for
 instance, that the diamonds which had adorned the statue of the Madonna
-in the Gesù were publicly worn afterwards by the mistress of one of the
+in the GesÃ¹ were publicly worn afterwards by the mistress of one of the
 prelates charged with the execution of the sentence--but the pro-Jesuit
 faction at Rome was completely silenced.
 
@@ -10420,18 +10396,18 @@ as riches. A judicial inquiry was held, and two of the Jesuits were
 condemned to imprisonment in S. Angelo as the chief agents in the fraud.
 
 In Naples, Spain, and Portugal the news was received with great
-rejoicing. In France, according to Crétineau-Joly, it was received
+rejoicing. In France, according to CrÃ©tineau-Joly, it was received
 with indignation, and the Archbishop of Paris, speaking in the name of
 "the Gallican Church," boldly rejected the Pope's brief, and addressed
 a very remarkable letter to His Holiness. There were still bishops in
 the French Church who owed their sees to the Jesuits, and Archbishop de
 Beaumont had earned their gratitude by defending their casuists. But M.
-Crétineau-Joly is here guilty of one of the gravest of the many grave
+CrÃ©tineau-Joly is here guilty of one of the gravest of the many grave
 ruses in this part of his work. The supposed letter, in connection with
 which he does not give a word of warning, is a flagrant Jesuit forgery.
 It is dated 24th April 1774, yet it is well known that a few weeks
 before that date the archbishop had suspended an ex-Jesuit preacher, M.
-de la Vrillière, for presuming on his noble connections and fashionable
+de la VrilliÃ¨re, for presuming on his noble connections and fashionable
 repute to make a few remarks, in a sermon, on the Pope's action. The
 fact is that this forged letter, and one forged in the name of the
 Archbishop of Arles, first saw the light in a Jesuit pamphlet eighteen
@@ -10525,17 +10501,17 @@ of the Church when the end required it.
 
 FOOTNOTES:
 
-[Footnote 38: See a full account in Döllinger and Reusch's _Geschichte
-der Moralstreitigkeiten in der Römisch-Katholischen Kirche_ (1889), i.
+[Footnote 38: See a full account in DÃ¶llinger and Reusch's _Geschichte
+der Moralstreitigkeiten in der RÃ¶misch-Katholischen Kirche_ (1889), i.
 120-273.]
 
 [Footnote 39: Two works will give the reader ample material for forming
-an idea on the subject. From the Jesuit side there is Crétineau-Joly's
-work, _Clément XIV. et les Jésuites_ (1847), though the work is little
+an idea on the subject. From the Jesuit side there is CrÃ©tineau-Joly's
+work, _ClÃ©ment XIV. et les JÃ©suites_ (1847), though the work is little
 more than a reproduction of the fifth volume of the same writer's
-_Histoire ... de la Compagnie de Jésus_, and is quite unprincipled
+_Histoire ... de la Compagnie de JÃ©sus_, and is quite unprincipled
 in many of its statements. The other work (_Histoire du pontificat
-de Clément XIV._, 1852) is a reply to the preceding, written by the
+de ClÃ©ment XIV._, 1852) is a reply to the preceding, written by the
 learned and conscientious Prefect of the Vatican Secret Archives,
 Father Theiner. Both contain copious extracts from contemporary
 documents, especially the correspondence of the ambassadors. The work
@@ -10825,7 +10801,7 @@ to make his statement before he left Rome and have it published at
 Florence, and the Pope indignantly denied it. The bishop was ordered to
 leave Rome, and, as Theiner shows, Pius VI. issued two briefs denying
 that he had approved the Society (29th January and 20th February). M.
-Crétineau-Joly seems to prefer to think that it was the Pope who lied.
+CrÃ©tineau-Joly seems to prefer to think that it was the Pope who lied.
 
 To the remote wilds of Lithuania the Roman quarrel had little chance
 of penetrating, and Bishop Benislawski presently returned with the
@@ -10835,7 +10811,7 @@ justify the fathers in their consciences. The lie was propagated among
 the ex-Jesuits of Europe, and many of them abandoned their pensions or
 positions and made their way to Russia. It seems that there were other
 features of the Society retained besides the art of mental reservation.
-Crétineau-Joly generously observes that after 1785 the Russian fathers
+CrÃ©tineau-Joly generously observes that after 1785 the Russian fathers
 "construct cloth-factories, a printing press, and all that is necessary
 for such exploitations": a complete business-system, in other words.
 It is remarkable that even in these circumstances, when they were
@@ -11076,7 +11052,7 @@ driven.
 The third element in the restoration of the Society takes us back to
 the year 1794, when a few young priests, refugees from revolutionary
 France, attempt in Belgium to set up a purified Jesuitism under another
-name. The most prominent was the Abbé Count de Broglie (son of the
+name. The most prominent was the AbbÃ© Count de Broglie (son of the
 famous marshal). He and a few others discussed a plan of covertly
 embodying the principles of Ignatius in a new society, and consulted
 some of the ex-Jesuits. Father Pey, of Louvain, became their director,
@@ -11226,7 +11202,7 @@ years confidently proclaimed that the terrors Europe had experienced
 were the direct result of taking from them the education of the young
 and the spiritual guidance of the adult. This fallacy was promptly
 answered, and need not detain us. The Revolution was due to the
-maintenance of mediæval injustices in a more enlightened age, and the
+maintenance of mediÃ¦val injustices in a more enlightened age, and the
 Jesuits, with all their power over kings, had never uttered a syllable
 of condemnation of those old abuses. We shall see that they lent all
 their recovered influence to the task of maintaining them even in the
@@ -11249,14 +11225,14 @@ initiated that close alliance between the Society and reaction which
 has been the disastrous blunder of the Jesuits for the last hundred
 years. But it was the price of their restoration.
 
-The bull was issued on 7th August 1714, and read in the Gesù the same
+The bull was issued on 7th August 1714, and read in the GesÃ¹ the same
 day. In presence of a distinguished gathering of ecclesiastics and
 nobles, the Pope said mass and then had the bull read. Some fifty
 members of the suppressed Society had been convoked for the occasion,
 and we can imagine that it was a touching spectacle to see these
 aged survivors of the mighty catastrophe--one was in his hundred and
 twenty-seventh year--return in honour to their metropolitan house.
-The Gesù and the house attached to it had been maintained in proper
+The GesÃ¹ and the house attached to it had been maintained in proper
 condition. The solid silver statue and the more costly ornaments of
 the church had been sold, to meet the demands of France on the papal
 exchequer, and the library of the house had disappeared. But the
@@ -11332,7 +11308,7 @@ seems, however, to have been a deeper quarrel. Some of the younger men
 and the ex-Paccanarists wished to reform the constitutions, and they
 had the support of Cardinal della Ganga, the Pope's Vicar (and later
 Leo XII.); the older men opposed reform. But what the precise position
-of Petrucci was it is impossible to decide. Crétineau-Joly, who alone
+of Petrucci was it is impossible to decide. CrÃ©tineau-Joly, who alone
 has had access to the archives and has used his privilege in such a way
 as to make the quarrel unintelligible, offers the ridiculous suggestion
 that Petrucci and the cardinal wished to destroy the Society.
@@ -11384,7 +11360,7 @@ with their Congregations, completes an unpleasant picture. The
 anti-reformers won, and the voters scattered to their respective
 provinces and missions.
 
-Three years later Pius VII. died, and the triumphant clique at the Gesù
+Three years later Pius VII. died, and the triumphant clique at the GesÃ¹
 had a momentary anxiety when Cardinal della Ganga mounted the papal
 throne under the name of Leo XII. Rozaven expresses their concern in a
 letter to a colleague, and predicts that he at least will be compelled
@@ -11444,7 +11420,7 @@ out the revolutionary spirit. It was on the eve of this insurrection--a
 work almost entirely of the educated class--that Gregory became Pope,
 and his policy after the pacification was one of savage repression.
 
-It is needless here to recall the brutal régime which the Austrians
+It is needless here to recall the brutal rÃ©gime which the Austrians
 in Venice (to which the Jesuits were formally admitted in 1836), the
 Pope in central Italy, and the Neapolitan ruler in the south, spread
 over the land. It is enough for us that in the three States, as in
@@ -11471,7 +11447,7 @@ but the conduct of Rome was exactly what it would have been five
 hundred years earlier. A solemn procession was enjoined, and, amidst
 the masses of terrified people, a statue of the Virgin was borne across
 Rome to the Church of the Jesuits. Gregory and his cardinals were in
-the procession, and for a time the Gesù was the centre or fount of the
+the procession, and for a time the GesÃ¹ was the centre or fount of the
 hope of Rome. Within a few months 5419 Romans succumbed to the cholera.
 
 Gregory died in the year 1846, and Italy sighed with relief. The misery
@@ -11488,7 +11464,7 @@ Rossi, who, as we shall see presently, had been sent to Rome a few
 years before to negotiate the banishment of the Jesuits from France,
 was recalled and made leading minister to the Vatican; and Father
 Theiner was directed to vindicate the memory of Clement XIV. against
-the Jesuits and Crétineau-Joly, who had just published his history.
+the Jesuits and CrÃ©tineau-Joly, who had just published his history.
 The Jesuits were so notoriously discontented with the change, and with
 the young Pope's concessions to liberalism, that, as he passed through
 the streets he heard the warning cry from his people: "Beware of the
@@ -11518,7 +11494,7 @@ the first half of the nineteenth century, we find a very different
 and more interesting chronicle. They had been banished from France,
 it will be recalled, in 1761, and the great majority of them had
 actually quitted the kingdom. Many had been secularised, and remained
-as teachers, tutors, confessors, or _curés_. During the period of
+as teachers, tutors, confessors, or _curÃ©s_. During the period of
 suppression a large number of them found employment in France; the
 learned Father Boscovitch, for instance, was made director of the
 optical department of the Navy under Louis XVI. As in Italy and
@@ -11577,7 +11553,7 @@ passed from town to town lashing up the fervour of the Catholics. Large
 crucifixes were planted on the wayside as memorials of their oratory;
 enthusiastic processions marched through the streets; in places the
 churches were so crowded that one had to spend the night at the door
-to secure a place near the pulpit. They were the Pères de la Foi,
+to secure a place near the pulpit. They were the PÃ¨res de la Foi,
 Catholics said (with a smile); but critics maintained that they were
 Jesuits, and there were towns where the missionaries were assaulted and
 expelled. A very serious controversy raged in the French press as to
@@ -11585,7 +11561,7 @@ whether there were really any Jesuits in France; even when, in 1822, a
 Liberal journal obtained and published a letter of General Fortis to
 one of his French subjects, it was difficult to convict them.
 
-At this period, in the early twenties, the famous Abbé de Lamennais
+At this period, in the early twenties, the famous AbbÃ© de Lamennais
 was seeking to form a democratic Christian body, and he made an effort
 to secure the support of the Jesuits. Louis XVIII. was one of the more
 moderate of the restored monarchs; but the democratic feeling was
@@ -11663,9 +11639,9 @@ Congregation, notoriously led by Father Ronsin, alarmed them. The
 authorities discreetly removed Father Ronsin from Paris, but the work
 of the Congregation proceeded. Charles X. was suspected of favouring
 the Jesuits. In 1828 the Nuncio openly proposed that the Society should
-be restored. We may take the word of Crétineau-Joly that the ground
+be restored. We may take the word of CrÃ©tineau-Joly that the ground
 had been so well prepared that a measure could have been passed safely
-through the two Houses. But Villèle, the French historian says, was so
+through the two Houses. But VillÃ¨le, the French historian says, was so
 misguided as to appeal to the country first, and he lost. The question
 of the Jesuits was not the least of the issues at stake. Showers of
 pamphlets fell upon the public, and the popular feeling was such that
@@ -11726,7 +11702,7 @@ resumed the semi-public existence of the previous decade. Catholicism
 made great progress in the thirties, chiefly through the agency of a
 brilliant group of laymen, and some of the Jesuits took an open part
 in the revival. Father de Ravignan, their finest orator, occupied the
-pulpit of Nôtre Dame for several seasons, and they were assiduous in
+pulpit of NÃ´tre Dame for several seasons, and they were assiduous in
 giving retreats to the clergy.
 
 As they no longer ventured to teach,--though it was known that
@@ -11744,9 +11720,9 @@ in the spirited conflict of pens. The chief result was to draw on
 the Jesuits the sardonic humour of Michelet, the weighty censures of
 Cousin, the poisonous raillery of Simon, and the unrestrained diatribes
 of the popular Liberal press. It was during this agitation that
-Eugène Sue lashed them with his _Juif Errant_, and George Sand wrote
+EugÃ¨ne Sue lashed them with his _Juif Errant_, and George Sand wrote
 _Consuelo_. Against this fierce and brilliant onslaught the publication
-of Crétineau-Joly's _Histoire_ was a feeble defence; it could carry no
+of CrÃ©tineau-Joly's _Histoire_ was a feeble defence; it could carry no
 conviction except to the already convinced and uncritical Catholic.
 Indeed, its treatment of Clement XIV. scandalised many Catholics, and,
 as we saw, Pius IX. directed the Vatican Archivist to refute it.[41]
@@ -11939,19 +11915,19 @@ time of the suppression of the Society the English Province boasted
 274 members, of whom 143 were actually in England. The suppression in
 Spain and France reduced their colleges; the two colleges at Bruges
 were violently closed by the authorities in 1773; there remained only a
-house at Liège and the English missions at Liverpool, Preston, Bristol,
+house at LiÃ¨ge and the English missions at Liverpool, Preston, Bristol,
 and a few other towns.
 
 They continued to live in community in these residences after the
 abolition of the Society, and minister as secular priests. In 1794
 their situation was again altered by the French invasion of Belgium,
 when the English fathers were expelled from their last continental
-seat, at Liège. The disaster proved, however, to be the starting-point
+seat, at LiÃ¨ge. The disaster proved, however, to be the starting-point
 of their more prosperous modern development in England. One of their
 old pupils, Thomas Weld, offered them a house and estate at Stonyhurst,
 near Preston, and on 29th August the refugees reached what was destined
 to be one of their most important centres. They opened a school--to be
-directed by certain "gentlemen from Liège"--and quietly awaited the
+directed by certain "gentlemen from LiÃ¨ge"--and quietly awaited the
 future.
 
 In the meantime the ex-Jesuits who had remained in England bore their
@@ -11964,7 +11940,7 @@ in Russia, and, although they could devise no pretext whatever for
 disobeying the Pope in England, they offered to unite with the
 Russians. Their proposal was declined or postponed, and they waited
 until the Pope officially recognised the Russian Society in 1801. By
-that time the Abbé de Broglie had led his little colony of Fathers of
+that time the AbbÃ© de Broglie had led his little colony of Fathers of
 the Faith from Austria to London and opened a college at Kensington.
 Some of the ex-Jesuits and many emigrant French priests were attracted
 to this authorised Congregation, but Paccanari was now an object of
@@ -12097,7 +12073,7 @@ Ferdinand II. died in 1836, but his successor could do little for
 them in face of the prevailing hostility. Father Beckx, the future
 General, was in Vienna at the time. A Jesuit had at last brought a
 ray of hope into the German camp by converting the Duke and Duchess
-of Anhalt-Köthen, and Father Beckx was confessor to the Duchess at
+of Anhalt-KÃ¶then, and Father Beckx was confessor to the Duchess at
 Vienna--and secret agent of the Society. He writes in 1837 that their
 enemies are very powerful, and Josephite principles triumphant; the
 Jesuits have only one public institution in Austria, and are forbidden
@@ -12267,7 +12243,7 @@ FOOTNOTES:
 [Footnote 41: It seems to have been on account of this slanderous
 attack on the Pope, as well as to give it an air of impartiality,
 that General Roothaan publicly denied that the Jesuits had assisted
-the author. The learned Abbé Guettée, in the _Histoire des Jésuites_,
+the author. The learned AbbÃ© GuettÃ©e, in the _Histoire des JÃ©suites_,
 which he published soon afterwards, tells us that, not yet knowing his
 hostility to them, some of the Jesuits of Paris freely acknowledged to
 him their share in the work. In any case, the Jesuits were obviously
@@ -12400,7 +12376,7 @@ and a prospect of real restoration lay before the Society. At Rome the
 Jesuits had enormous power. Their influence is seen in the declaration
 of the Immaculate Conception in 1854 and the appalling Encyclical
 against modern culture and aspirations of 1864. To them in 1866 the
-Pope entrusted his chief organ, the _Civiltà Cattolica_, and they had
+Pope entrusted his chief organ, the _CiviltÃ  Cattolica_, and they had
 a large part in agitating for, and ultimately passing, the declaration
 that the Pope is infallible in 1870. During all this period they
 controlled Catholic culture, if not the Papacy. Their power was at
@@ -12416,7 +12392,7 @@ cancelled the decrees against them, and cherished them as one of the
 supports of his throne. In England they found a friend in Wiseman and
 made rapid progress; in the United States they were growing with the
 phenomenal growth of the population. The age of trouble was over. The
-sage old fathers at the Gesù and the Roman College saw chaos returning
+sage old fathers at the GesÃ¹ and the Roman College saw chaos returning
 to order.
 
 In 1853, at the beginning of this happier turn of their fortunes,
@@ -12461,10 +12437,10 @@ issue.
 
 When the Piedmontese troops entered by the breach at the Porta Pia on
 20th September, the Jesuits knew that they were doomed. A detachment
-of soldiers at once proceeded to the house attached to the Gesù and
+of soldiers at once proceeded to the house attached to the GesÃ¹ and
 took up quarters there. Whatever the reason was, the new Italian
 Government proceeded very slowly in the work of expelling the Jesuits.
-For some weeks soldiers and fathers lived together at the Gesù--the
+For some weeks soldiers and fathers lived together at the GesÃ¹--the
 fathers afterwards said that the soldiers chose the General's room
 for practising the drum and trumpet--and the various residences were
 confiscated "in the public interest" at wide intervals. In October the
@@ -12486,7 +12462,7 @@ sympathy when, in October, Father Beckx, now a feeble old man of
 seventy-eight, went sorrowfully to his exile in Florence, and the
 remaining Italian Jesuits were pensioned and scattered. The novitiate
 at Sant Andreas was rented by the American Seminary (and Father Beckx
-was allowed to die there some years later). The Gesù was entrusted to
+was allowed to die there some years later). The GesÃ¹ was entrusted to
 other priests, and the sacred rooms of Ignatius and the other saints
 of the Society were respectfully preserved. The Roman College became a
 State school: I remember seeing a vast Congress of Freethinkers hold
@@ -12501,7 +12477,7 @@ their fathers were expelled from the new German Empire. For some years
 they had made quiet, but considerable, progress in Prussia, Bavaria,
 and Saxony, as well as Austria. They had opened a number of colleges
 at Cologne and in the Rhine Province, always a rich field for their
-work, and had institutions at Posen, Münster, Metz, Mayence, Bonn,
+work, and had institutions at Posen, MÃ¼nster, Metz, Mayence, Bonn,
 Strassburg, Essen, Aix-la-Chapelle, Marienthal, Ratisbon, and many
 other places. From the Rhine Province and Bavaria and Baden they sent
 so many recruits to the German College at Rome, who would return to
@@ -12695,13 +12671,13 @@ audacious denials of these constant charges of wealth, power, and
 intrigue, but it constantly happens that some confiscated document
 or disaffected admirer betrays them. Such an instance may be quoted
 in connection with the Spanish Jesuits. In 1896 a devout Catholic, a
-former pupil and employee of the Jesuits, Señor Ceballos y Cruzada,
+former pupil and employee of the Jesuits, SeÃ±or Ceballos y Cruzada,
 quarrelled with and turned against them. In the little work in which
 he expounds his grievances (_El Imperio del Jesuitismo_) he tells us
 some interesting facts about their wealth and activity. There is in
 Spain a vast Catholic Society known as the Association of Fathers of
 Families, which is quite as much concerned with sound politics as sound
-morals. Señor Ceballos shows how the Jesuits secretly use and direct
+morals. SeÃ±or Ceballos shows how the Jesuits secretly use and direct
 it for their political aims, and for thwarting rival ecclesiastical
 bodies. As to their wealth, he says that they have 11 colleges worth
 from 1,000,000 to 12,000,000 _reales_ each, while their chief house
@@ -12756,7 +12732,7 @@ the Italian Province numbers more than a thousand members. At Rome
 they control the Gregorian University, the German and Latin-American
 Colleges, the Biblical Institute, and other papal establishments.
 Restrained in some measure by Leo XIII., they have recovered all their
-influence at the Vatican under the present mediæval Pontiff, and they
+influence at the Vatican under the present mediÃ¦val Pontiff, and they
 are amongst the most ardent supporters of the reactionary policy with
 which he is paralysing higher culture in the Church of Rome. The
 higher secular clergy are little less anxious than the Socialists
@@ -12826,7 +12802,7 @@ religious orders generally, and had a particular dislike of the
 intrigue, the secrecy, the insubordination, and the pursuit of wealthy
 people, of the Jesuits.[47] Manning refused sacerdotal faculties to his
 nephew, Father Anderdon, and forced the Jesuits to surrender a site
-in West London for which they had paid more than £30,000. Cardinal
+in West London for which they had paid more than Â£30,000. Cardinal
 Vaughan, however, relaxed his coercive policy when he was transferred
 to Westminster.
 
@@ -12930,7 +12906,7 @@ INDEX
 
     Alberoni, Cardinal, 270, 271.
 
-    Alcalà, the Jesuits at, 10, 42, 44, 85.
+    AlcalÃ , the Jesuits at, 10, 42, 44, 85.
 
     Alessandrini, Cardinal, 84, 87.
 
@@ -12960,7 +12936,7 @@ INDEX
 
     Armada, the, 152, 153.
 
-    Arnauld, Angélique, 222, 223, 236.
+    Arnauld, AngÃ©lique, 222, 223, 236.
 
        "     Antoine, 223, 225, 227, 231, 237, 243.
 
@@ -12979,9 +12955,9 @@ INDEX
     Azpuru, Mgr., 343.
 
 
-    Bañez, 135.
+    BaÃ±ez, 135.
 
-    Barrière, 123.
+    BarriÃ¨re, 123.
 
     Barry, Mme du, 350.
 
@@ -13013,7 +12989,7 @@ INDEX
 
     Bernis, Cardinal, 343, 344, 346, 350.
 
-    Bérulle, Cardinal de, 177, 178.
+    BÃ©rulle, Cardinal de, 177, 178.
 
     Bismarck, 432, 433.
 
@@ -13045,7 +13021,7 @@ INDEX
 
     Britto, Father, 291.
 
-    Broglie, Abbé Count de, 382, 413.
+    Broglie, AbbÃ© Count de, 382, 413.
 
     Brouet, Paschase, 16, 20, 36, 41, 47, 58.
 
@@ -13062,7 +13038,7 @@ INDEX
 
     Campion, Father E., 143, 144-9, 150.
 
-    Campmüller, Father, 351.
+    CampmÃ¼ller, Father, 351.
 
     Canada, the Jesuits in, 193, 308-9.
 
@@ -13130,7 +13106,7 @@ INDEX
 
     Cistercians, the, and the Jesuits, 187.
 
-    Civiltà Cattolica, the, 427.
+    CiviltÃ  Cattolica, the, 427.
 
     Clarke, Father, 272.
 
@@ -13148,7 +13124,7 @@ INDEX
 
        "    XIV., 345, 346, 347, 348, 350, 352-7, 358, 368.
 
-    Clément, Jacques, 119, 126.
+    ClÃ©ment, Jacques, 119, 126.
 
     Clenock, Dr., 144.
 
@@ -13176,7 +13152,7 @@ INDEX
 
     Cologne, the Jesuits at, 49, 361.
 
-    Condé, 73, 74.
+    CondÃ©, 73, 74.
 
     Congo, the Jesuits in the, 52, 78, 296.
 
@@ -13206,7 +13182,7 @@ INDEX
 
     Cracow, the Jesuits at, 185.
 
-    Crétineau-Joly, vi, 4, 23, 38, 50, 56, 69, 77, 85, 96, 98, 120, 165,
+    CrÃ©tineau-Joly, vi, 4, 23, 38, 50, 56, 69, 77, 85, 96, 98, 120, 165,
     168, 171, 178, 183, 215, 225, 228, 238, 285, 305, 344, 349, 353, 360,
     373, 391, 402, 405.
 
@@ -13258,7 +13234,7 @@ INDEX
 
     England, the Jesuits in, 38-9, 64, 142-66, 198-219, 412-4, 441-3.
 
-    Épernon, the Duc d', 127.
+    Ã‰pernon, the Duc d', 127.
 
     Espartero, 409.
 
@@ -13334,7 +13310,7 @@ INDEX
     Germany, the Jesuits in, 49, 50, 75-6, 92, 101, 130-3, 184-7, 364-70,
     416-7, 431-4.
 
-    Gesù, the, 33, 107.
+    GesÃ¹, the, 33, 107.
 
     Gilbert, George, 146, 147.
 
@@ -13362,7 +13338,7 @@ INDEX
 
     Gruber, Father, 374, 376, 377, 378.
 
-    Guéret, Father, 123, 124.
+    GuÃ©ret, Father, 123, 124.
 
     Guerrero, Archbishop, 289.
 
@@ -13450,7 +13426,7 @@ INDEX
 
          "         wounding of, 2.
 
-    _Imago Primi Sæculi_, the, 180.
+    _Imago Primi SÃ¦culi_, the, 180.
 
     Immaculate Conception, the, 100.
 
@@ -13570,7 +13546,7 @@ INDEX
 
     Lainez, Diego, 14, 20, 22, 25, 41, 49, 53, 56-65, 72, 76-9.
 
-    Lamennais, Abbé de, 400, 401.
+    Lamennais, AbbÃ© de, 400, 401.
 
     Lamormaini, Father, 186, 324, 325.
 
@@ -13711,7 +13687,7 @@ INDEX
 
     More, Father, 143.
 
-    Müller, H., 8.
+    MÃ¼ller, H., 8.
 
 
     Naples, the Jesuits at, 66.
@@ -13914,7 +13890,7 @@ INDEX
 
     Richelieu, 174, 175, 176, 177, 183, 224.
 
-    Ripperdá, 271, 272.
+    RipperdÃ¡, 271, 272.
 
     Robinet, Father, 269, 270, 271.
 
@@ -14012,7 +13988,7 @@ INDEX
 
     St. Bartholomew Massacre, the, 89-91.
 
-    St. Cyran, the Abbé de, 221, 222, 224, 225, 227.
+    St. Cyran, the AbbÃ© de, 221, 222, 224, 225, 227.
 
     St. Omer, the college of, 145, 209, 219.
 
@@ -14093,7 +14069,7 @@ INDEX
 
     Valignani, Father, 137.
 
-    Vallière, Mlle de la, 236, 238.
+    ValliÃ¨re, Mlle de la, 236, 238.
 
     Valtellina, the Jesuits expelled from the, 65.
 
@@ -14115,7 +14091,7 @@ INDEX
 
     Villanueva, Father, 42.
 
-    Villèle, 402.
+    VillÃ¨le, 402.
 
     Vincent de Paul, St., 178, 226.
 
@@ -14127,7 +14103,7 @@ INDEX
 
     Vows, the Jesuit, 24, 30, 82.
 
-    Vrillière, Father de la, 360.
+    VrilliÃ¨re, Father de la, 360.
 
 
     Waldeck-Rousseau, 436.
@@ -14346,7 +14322,7 @@ The career of Madame de Genlis is one of the baffling enigmas of
 history. For the greater part of her life she played an important
 _role_ in the social and political life of France.
 
-By virtue of her intimate association with Philip Egalité, Duc
+By virtue of her intimate association with Philip EgalitÃ©, Duc
 d'Orleans, and her high position as the Governor of Louis Philippe
 and the other Orleans children, the influence she wielded practically
 amounted to royal power.
@@ -14424,7 +14400,7 @@ VEILED WOMEN
 
 By MARMADUKE PICKTHALL
 
-_Author of "Saïd the Fisherman," "Children of the Nile," etc._
+_Author of "SaÃ¯d the Fisherman," "Children of the Nile," etc._
 
 A fine novel of the East telling the life story of an English girl
 who marries an Egyptian noble and lives the harem life. The gradual
@@ -14439,7 +14415,7 @@ their intrigues, their pleasures and pastimes, the gorgeous colouring
 and the subtle perfume of their surroundings, the mystery, the charm
 and the insidious influence of the harem life are depicted with the
 brilliance of characterisation and richness of detail that one has come
-to expect from the author of "Saïd the Fisherman."
+to expect from the author of "SaÃ¯d the Fisherman."
 
 
 LADY OF THE NIGHT
@@ -14588,367 +14564,4 @@ _Author of "Mightier than the Sword."_
 
 End of Project Gutenberg's A Candid History of the Jesuits, by Joseph McCabe
 
-*** END OF THIS PROJECT GUTENBERG EBOOK A CANDID HISTORY OF THE JESUITS ***
-
-***** This file should be named 56414-8.txt or 56414-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/6/4/1/56414/
-
-Produced by Clarity, Graeme Mackreth and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive/American Libraries.)
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 56414 ***
